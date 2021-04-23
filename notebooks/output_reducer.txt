@@ -1,167 +1,167 @@
-acoustic blues	14
-adult standards	33
-africanamerican classical	2
+acoustic blues	41
+adult standards	289
+africanamerican classical	4
 american folk revival	1
-american modern classical	4
-american orchestra	3
+american modern classical	14
+american orchestra	10
 american romanticism	1
-appalachian folk	7
-arab folk	1
+appalachian folk	65
+arab folk	18
 banjo	2
-baroque	5
-barrelhouse piano	4
-bebop	5
-belly dance	1
-big band	52
-bluegrass	1
-blues	21
+baroque	10
+barrelhouse piano	43
+bebop	11
+belly dance	18
+big band	230
+bluegrass	44
+blues	118
 blues rock	1
-boogiewoogie	11
-brass ensemble	1
+boogiewoogie	87
+brass ensemble	2
 brill building pop	2
-british dance band	1
-british modern classical	4
+british dance band	4
+british modern classical	16
 british orchestra	1
-broadway	2
-cabaret	2
-cajun	2
+broadway	5
+cabaret	28
+cajun	8
 canzone napoletana	3
 chicago blues	4
-childrens choir	2
-classic arab pop	1
+childrens choir	4
+classic arab pop	18
 classic soul	1
 classic soundtrack	1
-classical	59
+classical	308
 classical bass	1
-classical era	9
+classical era	26
 classical organ	1
-classical performance	38
-classical piano	21
-classical tenor	2
+classical performance	266
+classical piano	236
+classical tenor	22
 concert band	1
-cool jazz	7
-cornetas y tambores	1
-country blues	15
+cool jazz	12
+cornetas y tambores	13
+country blues	48
 country gospel	1
-cowboy western	1
+cowboy western	6
 czech classical	1
-deep delta blues	5
+deep delta blues	8
 deep free jazz	1
-delta blues	7
-dixieland	17
-early modern classical	17
-early music	9
-early romantic era	9
-easy listening	15
+delta blues	9
+dixieland	276
+early modern classical	65
+early music	18
+early romantic era	175
+easy listening	63
 electric blues	3
-english baroque	1
-folk	2
+english baroque	4
+folk	45
 french folk	1
 french opera	1
 french romanticism	2
-galante era	1
-german baroque	4
-german choir	2
-german opera	7
-german orchestra	17
-german romanticism	19
+galante era	3
+german baroque	6
+german choir	4
+german opera	10
+german orchestra	30
+german romanticism	69
 gospel	1
-gospel blues	2
+gospel blues	17
 hardcore punk	1
-harlem renaissance	19
-harmonica blues	2
+harlem renaissance	297
+harmonica blues	4
 historic classical performance	8
-historic orchestral performance	8
-impressionism	2
+historic orchestral performance	40
+impressionism	23
 italian baritone	1
 italian baroque	1
-italian opera	11
-italian romanticism	12
-italian tenor	2
-jazz	15
-jazz blues	7
-jazz clarinet	8
-jazz guitar	5
-jazz piano	12
+italian opera	18
+italian romanticism	19
+italian tenor	38
+jazz	145
+jazz blues	41
+jazz clarinet	16
+jazz guitar	9
+jazz piano	160
 jazz quartet	1
 jazz saxophone	2
-jazz trombone	8
-jazz trumpet	16
-jug band	7
+jazz trombone	41
+jazz trumpet	119
+jug band	30
 jump blues	4
-late romantic era	21
-library music	1
-light music	2
-louisiana blues	4
-lounge	26
+late romantic era	62
+library music	9
+light music	6
+louisiana blues	29
+lounge	83
 marching band	1
-memphis blues	4
+memphis blues	15
 memphis soul	1
 movie tunes	1
-musica tradicional cubana	1
-neoclassicism	2
-new orleans blues	4
-new orleans jazz	10
-oklahoma country	1
-oldtime	3
-operetta	1
-orchestra	21
-orchestral performance	9
-orquesta tipica	1
-piano blues	5
-piedmont blues	8
-polish classical	3
-polish classical piano	1
+musica tradicional cubana	2
+neoclassicism	5
+new orleans blues	29
+new orleans jazz	342
+oklahoma country	6
+oldtime	46
+operetta	5
+orchestra	41
+orchestral performance	17
+orquesta tipica	125
+piano blues	43
+piedmont blues	13
+polish classical	128
+polish classical piano	27
 portland hip hop	1
-postromantic era	18
-prewar blues	3
-psychedelic rock	1
-ragtime	3
-reading	2
+postromantic era	30
+prewar blues	19
+psychedelic rock	31
+ragtime	28
+reading	21
 rhythm and blues	3
 rockabilly	1
 rockandroll	2
 russian choir	1
-russian classical piano	20
+russian classical piano	209
 russian folk	1
-russian modern classical	2
-russian romanticism	6
-show tunes	1
-son cubano	1
-son cubano clasico	1
-soul	9
+russian modern classical	6
+russian romanticism	32
+show tunes	4
+son cubano	2
+son cubano clasico	2
+soul	86
 southern soul	2
-space age pop	2
+space age pop	4
 spirituals	1
-spytrack	1
-stride	37
+spytrack	9
+stride	282
 string band	1
-swing	52
-tango	4
+swing	389
+tango	1066
 tango cancion	1
 tape club	1
-texas blues	2
-tin pan alley	12
-torch song	9
-traditional blues	28
-traditional country	2
-traditional folk	9
+texas blues	17
+tin pan alley	199
+torch song	27
+traditional blues	134
+traditional country	50
+traditional folk	67
 turkish classical	1
 turkish jazz	1
-ukrainian classical	3
+ukrainian classical	7
 victorian britain	1
-vintage chanson	3
-vintage classical singing	2
-vintage country folk	5
-vintage hollywood	2
-vintage jazz	25
+vintage chanson	107
+vintage classical singing	18
+vintage country folk	22
+vintage hollywood	30
+vintage jazz	173
 vintage oldtime	1
-vintage schlager	2
+vintage schlager	8
 vintage swing	3
-vintage tango	4
+vintage tango	1066
 vintage western	1
 vocal harmony group	3
-vocal jazz	24
+vocal jazz	260
 western swing	2
-yodeling	2
-zydeco	1
+yodeling	50
+zydeco	4
