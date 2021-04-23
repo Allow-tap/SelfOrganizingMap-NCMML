@@ -1,0 +1,1106 @@
+tango	1
+vintage tango	1
+adult standards	1
+big band	1
+easy listening	1
+lounge	1
+swing	1
+vintage chanson	1
+space age pop	1
+adult standards	1
+big band	1
+easy listening	1
+lounge	1
+swing	1
+adult standards	1
+big band	1
+easy listening	1
+lounge	1
+swing	1
+jazz trumpet	1
+cabaret	1
+vintage hollywood	1
+adult standards	1
+big band	1
+easy listening	1
+lounge	1
+swing	1
+classic soundtrack	1
+adult standards	1
+big band	1
+easy listening	1
+lounge	1
+swing	1
+vocal harmony group	1
+blues	1
+harlem renaissance	1
+jazz blues	1
+traditional blues	1
+bebop	1
+big band	1
+boogiewoogie	1
+cool jazz	1
+jazz	1
+jazz piano	1
+stride	1
+swing	1
+vintage jazz	1
+adult standards	1
+dixieland	1
+harlem renaissance	1
+jazz trumpet	1
+new orleans jazz	1
+soul	1
+vocal jazz	1
+adult standards	1
+dixieland	1
+harlem renaissance	1
+jazz trumpet	1
+new orleans jazz	1
+soul	1
+swing	1
+vocal jazz	1
+appalachian folk	1
+bluegrass	1
+folk	1
+oldtime	1
+traditional country	1
+traditional folk	1
+yodeling	1
+blues	1
+harlem renaissance	1
+jazz blues	1
+traditional blues	1
+adult standards	1
+dixieland	1
+jazz trumpet	1
+new orleans jazz	1
+soul	1
+swing	1
+vocal jazz	1
+big band	1
+stride	1
+vintage jazz	1
+new orleans jazz	1
+harlem renaissance	1
+prewar blues	1
+big band	1
+stride	1
+swing	1
+vintage jazz	1
+vintage swing	1
+vintage swing	1
+adult standards	1
+dixieland	1
+harlem renaissance	1
+jazz trumpet	1
+new orleans jazz	1
+soul	1
+swing	1
+vocal jazz	1
+turkish classical	1
+turkish jazz	1
+traditional blues	1
+harmonica blues	1
+jug band	1
+vintage jazz	1
+big band	1
+jazz blues	1
+jazz trumpet	1
+stride	1
+swing	1
+baroque	1
+classical	1
+early music	1
+german baroque	1
+adult standards	1
+africanamerican classical	1
+big band	1
+cool jazz	1
+harlem renaissance	1
+jazz	1
+jazz piano	1
+lounge	1
+stride	1
+swing	1
+vocal jazz	1
+gospel	1
+spirituals	1
+adult standards	1
+big band	1
+cool jazz	1
+harlem renaissance	1
+jazz	1
+jazz piano	1
+lounge	1
+stride	1
+swing	1
+vocal jazz	1
+adult standards	1
+harlem renaissance	1
+jazz	1
+jazz blues	1
+lounge	1
+soul	1
+torch song	1
+vocal jazz	1
+bebop	1
+big band	1
+stride	1
+swing	1
+classical	1
+early modern classical	1
+german romanticism	1
+postromantic era	1
+classical performance	1
+german orchestra	1
+orchestra	1
+orchestral performance	1
+adult standards	1
+big band	1
+easy listening	1
+jazz trombone	1
+lounge	1
+stride	1
+swing	1
+vocal jazz	1
+big band	1
+jazz trumpet	1
+stride	1
+swing	1
+vintage jazz	1
+adult standards	1
+easy listening	1
+jazz trombone	1
+lounge	1
+vocal jazz	1
+big band	1
+harlem renaissance	1
+stride	1
+tin pan alley	1
+torch song	1
+vintage jazz	1
+adult standards	1
+big band	1
+brill building pop	1
+easy listening	1
+lounge	1
+swing	1
+torch song	1
+vocal jazz	1
+jazz trombone	1
+stride	1
+big band	1
+boogiewoogie	1
+dixieland	1
+harlem renaissance	1
+jazz piano	1
+louisiana blues	1
+new orleans blues	1
+new orleans jazz	1
+ragtime	1
+stride	1
+swing	1
+vintage jazz	1
+big band	1
+new orleans jazz	1
+swing	1
+vintage jazz	1
+vocal harmony group	1
+torch song	1
+big band	1
+swing	1
+adult standards	1
+easy listening	1
+lounge	1
+big band	1
+vintage jazz	1
+adult standards	1
+big band	1
+easy listening	1
+jazz trombone	1
+lounge	1
+stride	1
+swing	1
+vocal jazz	1
+rockandroll	1
+rockabilly	1
+adult standards	1
+easy listening	1
+lounge	1
+adult standards	1
+big band	1
+easy listening	1
+jazz trombone	1
+lounge	1
+stride	1
+swing	1
+vocal jazz	1
+africanamerican classical	1
+cool jazz	1
+harlem renaissance	1
+jazz	1
+jazz piano	1
+cabaret	1
+harlem renaissance	1
+adult standards	1
+big band	1
+jazz clarinet	1
+swing	1
+easy listening	1
+jazz trombone	1
+lounge	1
+stride	1
+vocal jazz	1
+portland hip hop	1
+french folk	1
+jug band	1
+big band	1
+stride	1
+swing	1
+torch song	1
+vocal jazz	1
+vintage chanson	1
+vintage schlager	1
+classical	1
+italian opera	1
+italian romanticism	1
+late romantic era	1
+adult standards	1
+dixieland	1
+harlem renaissance	1
+jazz	1
+jazz piano	1
+stride	1
+swing	1
+tin pan alley	1
+vocal jazz	1
+big band	1
+jazz clarinet	1
+new orleans jazz	1
+stride	1
+vintage jazz	1
+boogiewoogie	1
+dixieland	1
+harlem renaissance	1
+jazz piano	1
+louisiana blues	1
+new orleans blues	1
+ragtime	1
+swing	1
+classical tenor	1
+italian tenor	1
+traditional folk	1
+vintage country folk	1
+big band	1
+stride	1
+boogiewoogie	1
+dixieland	1
+harlem renaissance	1
+jazz piano	1
+louisiana blues	1
+new orleans blues	1
+new orleans jazz	1
+ragtime	1
+swing	1
+vintage jazz	1
+big band	1
+stride	1
+american modern classical	1
+classical	1
+early modern classical	1
+tin pan alley	1
+big band	1
+brass ensemble	1
+big band	1
+jazz trumpet	1
+stride	1
+swing	1
+vintage jazz	1
+adult standards	1
+dixieland	1
+harlem renaissance	1
+jazz	1
+jazz piano	1
+tin pan alley	1
+vocal jazz	1
+easy listening	1
+jazz trombone	1
+lounge	1
+vintage hollywood	1
+american modern classical	1
+classical	1
+early modern classical	1
+tin pan alley	1
+vintage country folk	1
+arab folk	1
+belly dance	1
+classic arab pop	1
+country blues	1
+piedmont blues	1
+traditional blues	1
+broadway	1
+american modern classical	1
+classical	1
+early modern classical	1
+tin pan alley	1
+german opera	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+german romanticism	1
+late romantic era	1
+big band	1
+dixieland	1
+jazz trumpet	1
+stride	1
+swing	1
+tin pan alley	1
+vintage jazz	1
+adult standards	1
+jazz blues	1
+swing	1
+vocal jazz	1
+cornetas y tambores	1
+vintage jazz	1
+big band	1
+dixieland	1
+jazz trumpet	1
+stride	1
+swing	1
+tin pan alley	1
+italian tenor	1
+vintage classical singing	1
+big band	1
+dixieland	1
+jazz trumpet	1
+stride	1
+swing	1
+tin pan alley	1
+vintage jazz	1
+jazz guitar	1
+big band	1
+dixieland	1
+jazz trumpet	1
+stride	1
+swing	1
+tin pan alley	1
+vintage jazz	1
+jazz guitar	1
+jazz saxophone	1
+vintage jazz	1
+big band	1
+dixieland	1
+jazz trumpet	1
+stride	1
+swing	1
+tin pan alley	1
+jazz guitar	1
+appalachian folk	1
+banjo	1
+oldtime	1
+traditional blues	1
+traditional folk	1
+musica tradicional cubana	1
+son cubano	1
+son cubano clasico	1
+big band	1
+swing	1
+vintage jazz	1
+vintage tango	1
+tango	1
+historic orchestral performance	1
+reading	1
+german opera	1
+classical	1
+german romanticism	1
+late romantic era	1
+classical performance	1
+historic orchestral performance	1
+orchestral performance	1
+german orchestra	1
+orchestra	1
+classical	1
+classical era	1
+early romantic era	1
+german romanticism	1
+acoustic blues	1
+blues	1
+boogiewoogie	1
+country blues	1
+jug band	1
+memphis blues	1
+traditional blues	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+early music	1
+italian opera	1
+italian romanticism	1
+postromantic era	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+early music	1
+italian opera	1
+italian romanticism	1
+postromantic era	1
+late romantic era	1
+acoustic blues	1
+appalachian folk	1
+blues	1
+country blues	1
+delta blues	1
+prewar blues	1
+traditional blues	1
+traditional folk	1
+hardcore punk	1
+big band	1
+cool jazz	1
+jazz	1
+jazz piano	1
+stride	1
+swing	1
+vocal jazz	1
+adult standards	1
+harlem renaissance	1
+jazz blues	1
+lounge	1
+soul	1
+torch song	1
+classical organ	1
+childrens choir	1
+german choir	1
+baroque	1
+classical	1
+early music	1
+german baroque	1
+vintage schlager	1
+dixieland	1
+jug band	1
+acoustic blues	1
+blues	1
+country blues	1
+gospel blues	1
+piedmont blues	1
+traditional blues	1
+traditional folk	1
+acoustic blues	1
+blues	1
+boogiewoogie	1
+chicago blues	1
+country blues	1
+traditional blues	1
+early modern classical	1
+german opera	1
+german romanticism	1
+postromantic era	1
+classical performance	1
+german orchestra	1
+orchestra	1
+blues	1
+chicago blues	1
+electric blues	1
+early modern classical	1
+german opera	1
+german romanticism	1
+postromantic era	1
+blues	1
+jump blues	1
+rhythm and blues	1
+rockandroll	1
+southern soul	1
+blues	1
+traditional blues	1
+acoustic blues	1
+appalachian folk	1
+blues	1
+country blues	1
+delta blues	1
+piedmont blues	1
+traditional blues	1
+traditional folk	1
+adult standards	1
+big band	1
+lounge	1
+swing	1
+vocal harmony group	1
+vocal jazz	1
+acoustic blues	1
+american folk revival	1
+blues	1
+piedmont blues	1
+traditional blues	1
+acoustic blues	1
+blues	1
+chicago blues	1
+country blues	1
+delta blues	1
+electric blues	1
+traditional blues	1
+orquesta tipica	1
+tango	1
+vintage tango	1
+harlem renaissance	1
+traditional blues	1
+big band	1
+swing	1
+classical	1
+classical era	1
+country blues	1
+deep delta blues	1
+harmonica blues	1
+jug band	1
+piedmont blues	1
+traditional blues	1
+acoustic blues	1
+blues	1
+country blues	1
+jug band	1
+piedmont blues	1
+traditional blues	1
+acoustic blues	1
+blues	1
+country blues	1
+delta blues	1
+traditional blues	1
+acoustic blues	1
+appalachian folk	1
+blues	1
+country blues	1
+delta blues	1
+folk	1
+texas blues	1
+traditional blues	1
+traditional folk	1
+vintage chanson	1
+historic orchestral performance	1
+barrelhouse piano	1
+early romantic era	1
+german romanticism	1
+country blues	1
+deep delta blues	1
+piedmont blues	1
+traditional blues	1
+classical performance	1
+german romanticism	1
+historic orchestral performance	1
+orchestral performance	1
+german orchestra	1
+orchestra	1
+classical	1
+classical era	1
+early romantic era	1
+acoustic blues	1
+blues	1
+blues rock	1
+delta blues	1
+prewar blues	1
+traditional blues	1
+classic soul	1
+jazz blues	1
+memphis soul	1
+soul	1
+southern soul	1
+big band	1
+swing	1
+torch song	1
+adult standards	1
+jazz trumpet	1
+lounge	1
+jazz saxophone	1
+jump blues	1
+rhythm and blues	1
+italian baroque	1
+german opera	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+german romanticism	1
+late romantic era	1
+baroque	1
+early music	1
+german baroque	1
+acoustic blues	1
+blues	1
+country blues	1
+piedmont blues	1
+traditional blues	1
+blues	1
+chicago blues	1
+delta blues	1
+traditional blues	1
+adult standards	1
+cool jazz	1
+jazz	1
+lounge	1
+soul	1
+swing	1
+torch song	1
+vocal jazz	1
+movie tunes	1
+adult standards	1
+big band	1
+jazz	1
+jazz clarinet	1
+lounge	1
+stride	1
+swing	1
+vintage jazz	1
+vocal jazz	1
+acoustic blues	1
+appalachian folk	1
+blues	1
+country blues	1
+gospel blues	1
+texas blues	1
+traditional blues	1
+traditional folk	1
+adult standards	1
+big band	1
+jazz	1
+jazz clarinet	1
+lounge	1
+stride	1
+swing	1
+vintage jazz	1
+vocal jazz	1
+brill building pop	1
+easy listening	1
+soul	1
+torch song	1
+barrelhouse piano	1
+blues	1
+boogiewoogie	1
+piano blues	1
+traditional blues	1
+new orleans jazz	1
+big band	1
+jazz trombone	1
+stride	1
+swing	1
+adult standards	1
+jazz	1
+jazz clarinet	1
+lounge	1
+vintage jazz	1
+vocal jazz	1
+classical	1
+classical performance	1
+classical piano	1
+polish classical piano	1
+early romantic era	1
+polish classical	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+early romantic era	1
+polish classical	1
+bebop	1
+big band	1
+jazz	1
+jazz guitar	1
+stride	1
+swing	1
+bebop	1
+big band	1
+jazz	1
+jazz guitar	1
+stride	1
+swing	1
+adult standards	1
+jazz clarinet	1
+lounge	1
+vintage jazz	1
+vocal jazz	1
+big band	1
+jazz clarinet	1
+jazz quartet	1
+stride	1
+swing	1
+appalachian folk	1
+banjo	1
+country gospel	1
+oldtime	1
+traditional folk	1
+vintage country folk	1
+vintage oldtime	1
+big band	1
+stride	1
+swing	1
+big band	1
+dixieland	1
+jazz clarinet	1
+vintage jazz	1
+big band	1
+swing	1
+tin pan alley	1
+vintage jazz	1
+jug band	1
+traditional blues	1
+vintage country folk	1
+broadway	1
+show tunes	1
+space age pop	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+early romantic era	1
+german romanticism	1
+big band	1
+swing	1
+dixieland	1
+psychedelic rock	1
+deep delta blues	1
+traditional blues	1
+classical	1
+early music	1
+italian opera	1
+italian romanticism	1
+postromantic era	1
+american modern classical	1
+classical	1
+early modern classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+early modern classical	1
+impressionism	1
+late romantic era	1
+russian romanticism	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+early modern classical	1
+german opera	1
+german romanticism	1
+postromantic era	1
+classical	1
+classical era	1
+early music	1
+early romantic era	1
+classical performance	1
+german orchestra	1
+orchestra	1
+british modern classical	1
+early modern classical	1
+light music	1
+bebop	1
+big band	1
+boogiewoogie	1
+cool jazz	1
+jazz	1
+jazz piano	1
+stride	1
+swing	1
+vintage jazz	1
+russian modern classical	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+german romanticism	1
+late romantic era	1
+polish classical	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+orchestral performance	1
+american orchestra	1
+orchestra	1
+postromantic era	1
+russian romanticism	1
+ukrainian classical	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+early modern classical	1
+neoclassicism	1
+russian modern classical	1
+barrelhouse piano	1
+boogiewoogie	1
+piano blues	1
+baroque	1
+classical	1
+early music	1
+english baroque	1
+american orchestra	1
+orchestra	1
+classical performance	1
+historic orchestral performance	1
+orchestral performance	1
+classical	1
+classical piano	1
+russian classical piano	1
+german romanticism	1
+late romantic era	1
+historic classical performance	1
+classical	1
+classical era	1
+library music	1
+spytrack	1
+british modern classical	1
+early modern classical	1
+boogiewoogie	1
+jazz piano	1
+piano blues	1
+stride	1
+classical era	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+classical	1
+italian opera	1
+italian romanticism	1
+postromantic era	1
+american romanticism	1
+classical	1
+concert band	1
+marching band	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+canzone napoletana	1
+postromantic era	1
+classical	1
+french opera	1
+french romanticism	1
+late romantic era	1
+cajun	1
+zydeco	1
+jazz trumpet	1
+acoustic blues	1
+barrelhouse piano	1
+blues	1
+electric blues	1
+louisiana blues	1
+memphis blues	1
+new orleans blues	1
+piano blues	1
+rhythm and blues	1
+traditional blues	1
+american orchestra	1
+orchestra	1
+classical performance	1
+historic orchestral performance	1
+orchestral performance	1
+classical	1
+classical piano	1
+russian classical piano	1
+late romantic era	1
+russian romanticism	1
+historic classical performance	1
+canzone napoletana	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+italian opera	1
+italian romanticism	1
+late romantic era	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+cajun	1
+british modern classical	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+classical era	1
+boogiewoogie	1
+piano blues	1
+stride	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+early modern classical	1
+german romanticism	1
+postromantic era	1
+classical era	1
+early romantic era	1
+galante era	1
+historic classical performance	1
+canzone napoletana	1
+italian romanticism	1
+postromantic era	1
+classical	1
+german opera	1
+german romanticism	1
+late romantic era	1
+memphis blues	1
+country blues	1
+deep delta blues	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+postromantic era	1
+russian romanticism	1
+ukrainian classical	1
+tape club	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+late romantic era	1
+historic orchestral performance	1
+orchestral performance	1
+classical	1
+czech classical	1
+late romantic era	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+impressionism	1
+postromantic era	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+postromantic era	1
+historic classical performance	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+italian opera	1
+italian romanticism	1
+late romantic era	1
+russian choir	1
+russian folk	1
+childrens choir	1
+german choir	1
+baroque	1
+classical	1
+early music	1
+german baroque	1
+classical	1
+italian opera	1
+italian romanticism	1
+deep free jazz	1
+big band	1
+jump blues	1
+swing	1
+classical	1
+neoclassicism	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+jump blues	1
+historic orchestral performance	1
+orchestral performance	1
+classical	1
+early modern classical	1
+french romanticism	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+classical performance	1
+classical piano	1
+russian classical piano	1
+german romanticism	1
+late romantic era	1
+classical performance	1
+german orchestra	1
+orchestra	1
+classical	1
+late romantic era	1
+operetta	1
+adult standards	1
+big band	1
+jazz trumpet	1
+lounge	1
+swing	1
+historic classical performance	1
+classical	1
+italian opera	1
+italian romanticism	1
+late romantic era	1
+vintage western	1
+victorian britain	1
+historic classical performance	1
+classical performance	1
+german orchestra	1
+orchestra	1
+italian baritone	1
+vintage classical singing	1
+classical	1
+italian opera	1
+italian romanticism	1
+late romantic era	1
+classical bass	1
+british modern classical	1
+early modern classical	1
+light music	1
+reading	1
+memphis blues	1
+traditional blues	1
+vintage swing	1
+british dance band	1
+orchestral performance	1
+classical	1
+postromantic era	1
+russian romanticism	1
+ukrainian classical	1
+string band	1
+vintage country folk	1
+western swing	1
+classical	1
+early modern classical	1
+german romanticism	1
+postromantic era	1
+western swing	1
+classical	1
+early modern classical	1
+german romanticism	1
+postromantic era	1
+british orchestra	1
+orchestra	1
+adult standards	1
+cowboy western	1
+oklahoma country	1
+traditional country	1
+yodeling	1
+historic classical performance	1
+classical tenor	1
+classical	1
+italian opera	1
+italian romanticism	1
+late romantic era	1
+historic classical performance	1
+classical	1
+classical era	1
+early romantic era	1
+german romanticism	1
+deep delta blues	1
+tango	1
+tango cancion	1
+vintage tango	1
+classical	1
+late romantic era	1
+russian romanticism	1
