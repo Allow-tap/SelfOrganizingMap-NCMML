@@ -1,167 +1,4669 @@
-acoustic blues	41
-adult standards	289
-africanamerican classical	4
-american folk revival	1
-american modern classical	14
-american orchestra	10
-american romanticism	1
-appalachian folk	65
-arab folk	18
-banjo	2
-baroque	10
-barrelhouse piano	43
-bebop	11
-belly dance	18
-big band	230
-bluegrass	44
-blues	118
-blues rock	1
-boogiewoogie	87
-brass ensemble	2
-brill building pop	2
-british dance band	4
-british modern classical	16
-british orchestra	1
-broadway	5
-cabaret	28
-cajun	8
-canzone napoletana	3
-chicago blues	4
-childrens choir	4
-classic arab pop	18
-classic soul	1
-classic soundtrack	1
-classical	308
-classical bass	1
-classical era	26
-classical organ	1
-classical performance	266
-classical piano	236
-classical tenor	22
-concert band	1
-cool jazz	12
-cornetas y tambores	13
-country blues	48
-country gospel	1
-cowboy western	6
-czech classical	1
-deep delta blues	8
-deep free jazz	1
-delta blues	9
-dixieland	276
-early modern classical	65
-early music	18
-early romantic era	175
-easy listening	63
-electric blues	3
-english baroque	4
-folk	45
-french folk	1
-french opera	1
-french romanticism	2
-galante era	3
-german baroque	6
-german choir	4
-german opera	10
-german orchestra	30
-german romanticism	69
-gospel	1
-gospel blues	17
-hardcore punk	1
-harlem renaissance	297
-harmonica blues	4
-historic classical performance	8
-historic orchestral performance	40
-impressionism	23
-italian baritone	1
-italian baroque	1
-italian opera	18
-italian romanticism	19
-italian tenor	38
-jazz	145
-jazz blues	41
-jazz clarinet	16
-jazz guitar	9
-jazz piano	160
-jazz quartet	1
-jazz saxophone	2
-jazz trombone	41
-jazz trumpet	119
-jug band	30
-jump blues	4
-late romantic era	62
-library music	9
-light music	6
-louisiana blues	29
-lounge	83
-marching band	1
-memphis blues	15
-memphis soul	1
-movie tunes	1
-musica tradicional cubana	2
-neoclassicism	5
-new orleans blues	29
-new orleans jazz	342
-oklahoma country	6
-oldtime	46
-operetta	5
-orchestra	41
-orchestral performance	17
-orquesta tipica	125
-piano blues	43
-piedmont blues	13
-polish classical	128
-polish classical piano	27
-portland hip hop	1
-postromantic era	30
-prewar blues	19
-psychedelic rock	31
-ragtime	28
-reading	21
-rhythm and blues	3
-rockabilly	1
-rockandroll	2
-russian choir	1
-russian classical piano	209
-russian folk	1
-russian modern classical	6
-russian romanticism	32
-show tunes	4
-son cubano	2
-son cubano clasico	2
-soul	86
-southern soul	2
-space age pop	4
-spirituals	1
-spytrack	9
-stride	282
-string band	1
-swing	389
-tango	1066
-tango cancion	1
-tape club	1
-texas blues	17
-tin pan alley	199
-torch song	27
-traditional blues	134
-traditional country	50
-traditional folk	67
-turkish classical	1
-turkish jazz	1
-ukrainian classical	7
-victorian britain	1
-vintage chanson	107
-vintage classical singing	18
-vintage country folk	22
-vintage hollywood	30
-vintage jazz	173
-vintage oldtime	1
-vintage schlager	8
-vintage swing	3
-vintage tango	1066
-vintage western	1
-vocal harmony group	3
-vocal jazz	260
-western swing	2
-yodeling	50
-zydeco	4
+a cappella	99
+abstract	36
+abstract beats	5
+abstract hip hop	130
+abstract idm	1
+accordeon	62
+accordion	211
+acid house	122
+acid jazz	84
+acid rock	629
+acid techno	6
+acid trance	37
+acidcore	1
+acousmatic	98
+acoustic blues	1157
+acoustic chill	20
+acoustic guitar cover	2
+acoustic opm	17
+acoustic pop	335
+acoustic punk	31
+acoustic rock	39
+action rock	30
+adoracao	585
+adoracion	161
+adult standards	27549
+adventista	87
+afghan pop	90
+afghan traditional	4
+african electronic	3
+african gospel	79
+african percussion	18
+african reggae	137
+african rock	350
+africanamerican classical	376
+afrikaans	755
+afrikaans folk	4
+afrikaans gospel	19
+afro dancehall	122
+afro house	64
+afro psych	8
+afro rb	11
+afro soul	1141
+afrobeat	372
+afrobeat brasileiro	25
+afrobeat fusion	1
+afrocuban traditional	2
+afrofunk	17
+afrofuturism	277
+afrofuturismo brasileiro	136
+afropop	1052
+afroswing	109
+aggro chileno	6
+aggrotech	61
+ai	2
+aikatsu	1
+ainu folk	1
+alabama indie	12
+alabama metal	1
+alabama rap	25
+alaska indie	8
+albanian hip hop	85
+albanian pop	61
+alberta country	20
+alberta hip hop	2
+album rock	17669
+albuquerque indie	19
+algerian folk	13
+alpine yodeling	30
+alt z	705
+alte	8
+alternative americana	10
+alternative ccm	1
+alternative country	726
+alternative dance	1020
+alternative emo	86
+alternative hardcore	1
+alternative hip hop	957
+alternative metal	4549
+alternative metalcore	1
+alternative pop	316
+alternative pop rock	25
+alternative rb	546
+alternative rock	5925
+alternative roots rock	68
+altidol	1
+amapiano	154
+ambeat	25
+ambient	434
+ambient black metal	17
+ambient dub techno	1
+ambient folk	32
+ambient fusion	4
+ambient house	26
+ambient idm	7
+ambient industrial	9
+ambient pop	85
+ambient psychill	12
+ambient techno	22
+ambient trance	6
+ambient worship	34
+american choir	116
+american classical piano	778
+american contemporary classical	129
+american early music	2
+american folk revival	1130
+american grindcore	2
+american metalcore	3
+american modern classical	1285
+american oi	3
+american orchestra	1844
+american postrock	8
+american primitive	39
+american romanticism	51
+american shoegaze	6
+amharic pop	7
+anadolu rock	1439
+anarchopunk	33
+ancient mediterranean	13
+andean flute	21
+anglican liturgy	21
+animal singing	3
+anime	1592
+anime latino	46
+anime rock	602
+anime score	1729
+ann arbor indie	12
+anthem	1
+anthem emo	58
+anthem worship	189
+antideutsche	108
+antifolk	402
+antilliaanse rap	3
+antiviral pop	36
+appalachian folk	1513
+arab alternative	18
+arab electronic	16
+arab folk	630
+arab groove	49
+arab pop	631
+arab trap	9
+arabesk	3209
+arabic hip hop	75
+arabic jazz	71
+argentine alternative rock	59
+argentine ambient	9
+argentine hardcore	35
+argentine heavy metal	278
+argentine hip hop	335
+argentine indie	645
+argentine indie rock	9
+argentine jazz	6
+argentine metal	263
+argentine punk	265
+argentine reggae	431
+argentine rock	5554
+argentine telepop	387
+arizona punk	2
+arkansas country	1009
+arkansas hip hop	1
+arkansas indie	1
+armenian folk	14
+armenian hip hop	3
+armenian pop	6
+arpa paraguaya	21
+art pop	1743
+art punk	452
+art rock	12885
+art song	214
+asakaa	1
+asbury park indie	13
+asheville indie	2
+asian american hip hop	47
+asmr	3
+assamese pop	26
+assyrian pop	2
+athens indie	229
+atl hip hop	1178
+atl trap	124
+atlanta indie	5
+atlanta metal	10
+atlanta punk	4
+atmosphere	9
+atmospheric black metal	18
+atmospheric dnb	14
+atmospheric doom	7
+atmospheric postmetal	9
+atmospheric sludge	5
+auckland indie	22
+audiophile vocal	24
+aussie drill	66
+aussie emo	14
+aussietronica	113
+austin americana	4
+austin singersongwriter	7
+austindie	19
+australian alternative pop	23
+australian alternative rock	1075
+australian ambient	1
+australian americana	31
+australian black metal	2
+australian blues	2
+australian childrens music	199
+australian classical	16
+australian comedy	43
+australian country	281
+australian dance	665
+australian electropop	122
+australian garage punk	44
+australian hardcore	1
+australian hip hop	203
+australian house	48
+australian indie	420
+australian indie folk	76
+australian indie rock	18
+australian indigenous	105
+australian jazz	3
+australian metalcore	21
+australian pop	1530
+australian postpunk	10
+australian psych	131
+australian rb	17
+australian reggae fusion	84
+australian rock	2309
+australian singersongwriter	32
+australian ska	25
+australian talent show	79
+australian techno	1
+australian trap	59
+australian underground hip hop	49
+austrian black metal	1
+austrian choir	143
+austrian classical piano	63
+austrian dnb	3
+austrian hip hop	16
+austrian indie	7
+austrian jazz	29
+austrian metal	7
+austrian orchestra	1373
+austrian pop	55
+austrian punk	4
+austrian techno	1
+austrogerman modernism	135
+austropop	971
+auteurcompositeurinterprete quebecois	245
+autoharp	2
+autonomous black metal	53
+avantgarde	319
+avantgarde jazz	1333
+avantgarde metal	5
+axe	1821
+azeri pop	48
+azeri rap	72
+azeri traditional	222
+azonto	80
+azontobeats	141
+bachata	1149
+bachata dominicana	930
+background jazz	8
+background music	40
+background piano	11
+baglama	320
+bagpipe	3
+bagpipe marching band	11
+bahai	1
+bahamian folk	13
+bahamian pop	7
+baiao	244
+baithak gana	2
+baja indie	2
+bajki	100
+bakersfield sound	203
+balafon	2
+balalaika	1
+balearic	37
+balfolk	4
+balinese traditional	3
+balkan brass	102
+balkan classical piano	7
+balkan folk metal	7
+balkan hip hop	34
+balkan trap	57
+ballet class	45
+ballroom	488
+balmusette	50
+baltic black metal	11
+baltic choir	14
+baltic classical	87
+baltic classical piano	2
+baltic folk	49
+baltimore hip hop	1
+baltimore indie	24
+band organ	2
+banda	1514
+banda caliente	73
+banda carnavalera	54
+bandinhas	21
+bandolim	16
+bandoneon	180
+bangla	261
+bangladeshi indie	1
+bangladeshi rock	1
+banjo	453
+bansuri	30
+baps	3
+barbadian pop	222
+barbershop	14
+bard	354
+bardcore	28
+barnalog	1042
+barnasogur	584
+barnemusikk	1023
+barnmusik	1208
+barnsagor	3547
+barockinterpreten	169
+baroque	2992
+baroque brass	1
+baroque cello	6
+baroque ensemble	369
+baroque pop	1095
+baroque singing	25
+baroque violin	45
+baroque woodwind	3
+barrelhouse piano	116
+basque folk	25
+bass house	118
+bass music	35
+bass trap	124
+bass trip	4
+basshall	122
+bassline	85
+batak	89
+bath indie	7
+batida	22
+batidao romantico	16
+baton rouge rap	49
+battle rap	96
+bay area hip hop	6
+bay area indie	13
+bayerischer rap	13
+bboy	244
+bc underground hip hop	11
+beach house	4
+beach music	34
+beat italiano	272
+beat poetry	39
+beatboxing	8
+beatlesque	2043
+beats	4
+bebop	7322
+bedroom pop	98
+bedroom soul	28
+belarusian electronic	9
+belarusian hip hop	121
+belarusian indie	52
+belarusian pop	81
+belarusian punk	36
+belarusian rock	77
+belgian black metal	4
+belgian blues	34
+belgian classical piano	2
+belgian contemporary classical	27
+belgian dance	223
+belgian dnb	2
+belgian edm	285
+belgian hardcore	1
+belgian hip hop	194
+belgian indie	185
+belgian indie rock	52
+belgian jazz	43
+belgian metal	17
+belgian modern jazz	5
+belgian new wave	106
+belgian pop	322
+belgian postrock	1
+belgian punk	6
+belgian rock	603
+belgian singersongwriter	130
+belgian techno	21
+bells	1
+belly dance	445
+belo horizonte indie	18
+bemani	8
+benga	10
+bengali folk	19
+beninese pop	8
+bergamo indie	44
+bergen indie	54
+berlin minimal techno	3
+berlin school	128
+bern indie	1
+bernu dziesmas	42
+bhajan	663
+bhangra	320
+bhojpuri pop	33
+bible	1
+big band	7651
+big beat	696
+big room	799
+binaural	5
+birdsong	3
+birmingham grime	31
+birmingham hip hop	33
+birmingham indie	5
+birmingham metal	511
+bisaya indie	2
+bisaya rap	7
+bisrock	15
+bitpop	81
+black comedy	20
+black death	1
+black metal	283
+black n roll	47
+black punk	31
+black sludge	1
+black thrash	104
+blackened crust	12
+blackened deathcore	1
+blackgaze	6
+blaskapelle	139
+blasmusik	66
+bleep techno	35
+bloco	6
+bluegrass	850
+bluegrass fiddle	13
+bluegrass gospel	362
+blues	3679
+blues latinoamericano	118
+blues mexicano	18
+blues rock	8276
+bluesrock guitar	1
+bmore	85
+bodo pop	3
+boeremusiek	28
+bogor indie	2
+bohemian baroque	13
+bolero	3491
+bolero cubano	325
+bolero mexicano	992
+bolivian metal	28
+bolivian rock	182
+bomba y plena	113
+bongo flava	18
+boogaloo	1232
+boogie	35
+boogiewoogie	527
+boom bap	49
+boom bap brasileiro	107
+bornehistorier	208
+bornesange	629
+bosnian electronic	4
+bosnian indie	4
+bossa nova	7416
+bossa nova cover	90
+bossa nova jazz	74
+boston electronic	2
+boston folk	4
+boston hardcore	8
+boston hip hop	27
+boston indie	3
+boston metal	11
+boston punk	37
+boston rock	213
+botswana pop	4
+bounce	22
+bouncy house	61
+bouzouki	613
+bow pop	834
+boy band	1230
+boy pop	1
+boy soprano	2
+bozlak	245
+brain waves	3
+braindance	76
+brass band	27
+brass ensemble	77
+brass quintet	5
+brazilian bass	23
+brazilian black metal	8
+brazilian blues	6
+brazilian boogie	294
+brazilian ccm	218
+brazilian classical	272
+brazilian classical piano	16
+brazilian contemporary classical	5
+brazilian death metal	3
+brazilian dnb	6
+brazilian edm	285
+brazilian emo	45
+brazilian gospel	843
+brazilian groove metal	49
+brazilian hardcore	40
+brazilian hip hop	939
+brazilian house	29
+brazilian indie	603
+brazilian indie rock	2
+brazilian jazz	1218
+brazilian metal	140
+brazilian modern jazz	18
+brazilian percussion	80
+brazilian posthardcore	4
+brazilian power metal	38
+brazilian progressive metal	61
+brazilian punk	241
+brazilian punk rock	76
+brazilian reggae	687
+brazilian rock	2900
+brazilian rockabilly	2
+brazilian ska	16
+brazilian soul	358
+brazilian tech house	2
+brazilian techno	6
+brazilian thrash metal	65
+breakbeat	194
+breakcore	14
+brega	318
+brega funk	47
+brega romantico	25
+breton folk	50
+brighton indie	58
+brill building pop	10547
+brisbane indie	29
+bristol electronic	29
+bristol indie	4
+brit funk	153
+british alternative rock	53
+british black metal	33
+british blues	1623
+british brass band	16
+british childrens music	9
+british choir	275
+british classical piano	81
+british comedy	153
+british contemporary classical	15
+british country	8
+british dance band	439
+british death metal	29
+british electroacoustic	1
+british experimental	32
+british folk	929
+british grindcore	28
+british indie rock	33
+british industrial	70
+british invasion	3948
+british jazz	137
+british math rock	1
+british modern classical	273
+british orchestra	2213
+british postrock	11
+british power metal	17
+british singersongwriter	73
+british soul	560
+british soundtrack	231
+britpop	1608
+broadway	934
+broken beat	35
+bronx hip hop	185
+brooklyn drill	164
+brooklyn indie	51
+brostep	246
+bruneian pop	11
+brutal deathcore	2
+brutal death metal	97
+bubble trance	467
+bubblegrunge	17
+bubblegum dance	1747
+bubblegum pop	3986
+buffalo ny indie	7
+buffalo ny metal	18
+bulgarian electronic	7
+bulgarian experimental	4
+bulgarian folk	51
+bulgarian hip hop	351
+bulgarian indie	14
+bulgarian metal	4
+bulgarian pop	1664
+bulgarian rock	830
+burkinabe pop	5
+burmese traditional	5
+burundian pop	5
+bush ballad	123
+c	156
+cabaret	193
+cajun	22
+cali rap	227
+california hardcore	65
+calming instrumental	74
+calypso	345
+cambodian pop	1
+cambodian rock	7
+cambridge choir	48
+cambridgeshire indie	2
+cameroonian hip hop	4
+cameroonian pop	1
+campursari	59
+canadian americana	12
+canadian blues	114
+canadian ccm	36
+canadian celtic	228
+canadian childrens music	254
+canadian choir	41
+canadian classical	32
+canadian classical piano	850
+canadian comedy	4
+canadian contemporary country	49
+canadian contemporary rb	1054
+canadian country	367
+canadian electronic	115
+canadian electropop	36
+canadian experimental	8
+canadian folk	52
+canadian hardcore	8
+canadian hip hop	405
+canadian house	3
+canadian indie	467
+canadian indie folk	3
+canadian indigenous	18
+canadian indigenous hip hop	2
+canadian latin	59
+canadian metal	473
+canadian modern jazz	5
+canadian old school hip hop	72
+canadian pop	1896
+canadian pop punk	120
+canadian posthardcore	21
+canadian postrock	5
+canadian psychedelic	29
+canadian punk	191
+canadian rock	679
+canadian rockabilly	14
+canadian singersongwriter	1042
+canadian soundtrack	43
+canberra indie	3
+cancion infantil mexicana	53
+cancion melodica	2080
+cancoes infantis	25
+candombe	67
+candomble	36
+candy pop	490
+cantaditas	11
+cantautor	4178
+cantautor catala	72
+cante flamenco	235
+canterbury scene	228
+canti alpini	32
+canto popular uruguayo	1641
+cantonese opera	62
+cantonese worship	30
+cantopop	5743
+canzone dautore	1864
+canzone genovese	348
+canzone napoletana	1506
+cape breton folk	17
+cape town indie	77
+cape verdean folk	46
+capoeira	11
+caracas indie	5
+carimbo	61
+carnatic	403
+carnatic instrumental	62
+carnatic vocal	389
+carnaval	428
+carnaval cadiz	127
+carnaval limburg	78
+cartoon	101
+catalan folk	136
+cathedral choir	12
+caucasian classical	29
+caucasian classical piano	1
+ccm	711
+cedm	2
+ceilidh	4
+cello	103
+celtic	1796
+celtic harp	6
+celtic metal	79
+celtic punk	206
+celtic rock	790
+chaabi algerien	5
+chaabi marocain	3
+chachacha	263
+chakra	10
+chalga	933
+chamame	956
+chamber choir	96
+chamber ensemble	5
+chamber folk	4
+chamber orchestra	553
+chamber pop	340
+chamber psych	81
+champeta	173
+channel islands indie	7
+channel pop	45
+chanson	5848
+chanson paillarde	152
+chanson quebecois	259
+chanson virale	41
+chant basque	6
+chant religieux	43
+charanga	442
+charango	261
+charlotte nc indie	2
+charlottesville indie	5
+chattanooga indie	1
+chechen pop	2
+chennai indie	1
+chicago blues	794
+chicago drill	35
+chicago hardcore	45
+chicago house	77
+chicago indie	29
+chicago punk	69
+chicago rap	575
+chicago soul	410
+chicano punk	12
+chicano rap	244
+chicha	459
+chihuahua indie	12
+childrens choir	161
+childrens folk	250
+childrens music	921
+childrens story	2
+chilean hardcore	120
+chilean indie	614
+chilean metal	2
+chilean rock	1316
+chilena	73
+chill baile	6
+chill beats	4
+chill groove	2
+chill guitar	46
+chill lounge	37
+chill out	5
+chill pop	8
+chill rb	308
+chillhop	122
+chillout trance	1
+chillstep	46
+chillwave	146
+chinderlieder	415
+chinese audiophile	137
+chinese classical	3
+chinese classical performance	29
+chinese classical piano	9
+chinese drama ost	21
+chinese electropop	47
+chinese experimental	13
+chinese folk	16
+chinese hip hop	42
+chinese idol pop	13
+chinese indie	1676
+chinese indie pop	10
+chinese indie rock	77
+chinese instrumental	19
+chinese jazz	28
+chinese manyao	9
+chinese metal	2
+chinese minyao	40
+chinese new year	10
+chinese postrock	12
+chinese rb	230
+chinese singersongwriter	89
+chinese soundtrack	16
+chinese traditional	10
+chinese viral pop	57
+chinese wind	1
+chinese worship	23
+chiptune	102
+chopped and screwed	36
+choral	1078
+choro	759
+choro contemporaneo	4
+christchurch indie	30
+christelijk	219
+christian a cappella	29
+christian afrobeat	1
+christian alternative rock	569
+christian dance	2
+christian hardcore	2
+christian hard rock	4
+christian hip hop	20
+christian indie	25
+christian metal	118
+christian metalcore	5
+christian music	879
+christian pop	30
+christian power metal	50
+christian punk	27
+christian relaxative	345
+christian rock	243
+christian thrash metal	4
+christian trap	6
+christian uplift	2
+christlicher rap	64
+christmas instrumental	103
+christmas product	1
+chunchaca	114
+chutney	1940
+cimbalom	5
+cimbalova muzika	19
+cincinnati indie	1
+cincinnati rap	1
+cinematic postrock	3
+circuit	57
+circus	6
+city pop	62
+classic afrobeat	4
+classic anime	161
+classic arab pop	1157
+classic australian country	79
+classic azeri pop	161
+classic belgian pop	824
+classic bhangra	101
+classic bollywood	14894
+classic bulgarian pop	311
+classic canadian rock	1341
+classic cantopop	4539
+classic city pop	710
+classic colombian pop	879
+classic country pop	1337
+classic czech pop	1912
+classic danish pop	3324
+classic danish rock	359
+classic dubstep	47
+classic dutch pop	255
+classic eurovision	39
+classic finnish pop	3540
+classic finnish rock	3422
+classic french pop	241
+classic garage rock	767
+classic girl group	459
+classic greek pop	1644
+classic greek rock	814
+classic hardstyle	336
+classic house	222
+classic hungarian pop	2182
+classic hungarian rock	961
+classic icelandic pop	4520
+classic indonesian rock	738
+classic indo pop	1876
+classic iskelma	3356
+classic israeli pop	6403
+classic italian folk pop	230
+classic italian pop	5806
+classic japanese jazz	88
+classic jpop	2787
+classic jrock	1020
+classic kollywood	2370
+classic konkani pop	88
+classic korean pop	37
+classic kpop	103
+classic latvian pop	422
+classic luk thung	608
+classic malaysian pop	1453
+classic mandopop	5552
+classic moroccan pop	3
+classic nepali pop	18
+classic norwegian pop	2874
+classic nz pop	311
+classic opm	1272
+classic pakistani pop	2448
+classic persian pop	91
+classic peruvian pop	516
+classic polish pop	1303
+classic portuguese pop	568
+classic praise	313
+classic progressive house	51
+classic psychedelic rock	28
+classic punjabi pop	116
+classic rock	24042
+classic russian pop	1333
+classic russian rock	2167
+classic schlager	1180
+classic sinhala pop	16
+classic soul	4715
+classic soundtrack	2304
+classic swedish pop	5438
+classic thai pop	2672
+classic tollywood	3873
+classic tunisian pop	18
+classic turkish pop	1753
+classic uk pop	4336
+classic venezuelan pop	349
+classical	26362
+classical accordion	3
+classical baritone	731
+classical bass	921
+classical cello	564
+classical clarinet	85
+classical contralto	140
+classical countertenor	40
+classical era	3916
+classical flute	64
+classical guitar	478
+classical harp	22
+classical horn	35
+classical jazz fusion	23
+classical mandolin	4
+classical mezzosoprano	417
+classical oboe	23
+classical organ	471
+classical percussion	8
+classical performance	19338
+classical piano	3550
+classical piano duo	2
+classical piano trio	11
+classical saxophone	29
+classical soprano	2109
+classical tenor	1822
+classical trombone	1
+classical trumpet	35
+classify	101
+clawhammer banjo	2
+clean comedy	29
+cleveland metal	4
+coco	129
+cocuk masallari	68
+cocuk sarkilari	85
+coldwave	16
+collage pop	9
+college a cappella	10
+college marching band	1
+cologne electronic	9
+cologne hip hop	38
+cologne indie	23
+colombian electronic	11
+colombian hardcore	11
+colombian hip hop	238
+colombian indie	23
+colombian pop	1241
+colombian rock	320
+columbus ohio indie	7
+combos nacionales	65
+comedia	70
+comedienne	4
+comedy	96
+comedy rap	22
+comedy rock	46
+comic	679
+comic metal	155
+complextro	127
+compositional ambient	896
+comptine	37
+comptine africaine	1
+concepcion indie	137
+concert band	39
+concertina	8
+connecticut hardcore	6
+connecticut indie	1
+conscious hip hop	1106
+contemporary choir	6
+contemporary classical	200
+contemporary classical piano	34
+contemporary country	1633
+contemporary folk	13
+contemporary gospel	79
+contemporary jazz	609
+contemporary postbop	1843
+contemporary vocal jazz	381
+contrabass	12
+cook islands pop	52
+cool jazz	11473
+copla	335
+coral gospel	10
+cork indie	3
+cornetas y tambores	84
+cornish folk	1
+cornwall indie	1
+corrido	3714
+corridos cristianos	49
+corridos tumbados	167
+corrosion	67
+corsican folk	23
+cosmic american	742
+cosmic black metal	8
+cosmic postrock	10
+cosmic uplifting trance	29
+country	4580
+country blues	1169
+country boogie	73
+country dawn	810
+country gospel	442
+country pop	131
+country quebecois	84
+country rap	47
+country road	1728
+country rock	11745
+coupedecale	18
+coventry indie	5
+coverchill	102
+covertrance	1
+cowboy western	639
+cowpunk	72
+cpop	10175
+crack rock steady	2
+croatian electronic	2
+croatian folk	5
+croatian hip hop	4
+croatian indie	23
+croatian pop	279
+croatian rock	160
+crossover prog	2
+crossover thrash	166
+crunk	281
+crust punk	45
+cuarteto	544
+cuatro venezolano	58
+cuban alternative	37
+cuban rumba	271
+cubaton	80
+cueca chilena	33
+cuento infantile	9
+cumbia	1812
+cumbia andina mexicana	50
+cumbia boliviana	155
+cumbia chilena	794
+cumbia colombiana regia	64
+cumbia ecuatoriana	223
+cumbia funk	18
+cumbia lagunera	56
+cumbia paraguaya	139
+cumbia peruana	677
+cumbia pop	1241
+cumbia ranchera	530
+cumbia salvadorena	43
+cumbia santafesina	363
+cumbia sonidera	636
+cumbia surena	81
+cumbia uruguaya	1170
+cumbia villera	1540
+cyber metal	44
+cyberpunk	212
+cymraeg	6
+cypriot pop	323
+czech classical	199
+czech classical piano	13
+czech contemporary classical	5
+czech electronic	3
+czech folk	2667
+czech hip hop	678
+czech indie	61
+czech metal	103
+czech pop	1008
+czech punk	548
+czech rock	3545
+czsk hip hop	2245
+czsk reggae	71
+dabke	288
+dainuojamoji poezija	173
+dakke dak	178
+dalarna indie	29
+dallas indie	1
+dance pop	13592
+dance rock	2132
+dancehall	860
+dancehall colombiano	8
+dancepunk	877
+dangdut	1765
+dangdut koplo	285
+dangdut remix	54
+danish alternative rock	248
+danish choir	16
+danish classical	31
+danish contemporary classical	3
+danish death metal	2
+danish electro	1
+danish electronic	143
+danish electropop	42
+danish experimental	1
+danish folk	1
+danish hip hop	1391
+danish indie	25
+danish indie pop	4
+danish jazz	172
+danish metal	103
+danish modern jazz	11
+danish pop	3928
+danish pop rock	1138
+danish postpunk	79
+danish punk	67
+danish rock	338
+danish singersongwriter	76
+danish techno	26
+dansband	1998
+danseband	1643
+dansei seiyu	1
+dansk lovsang	38
+dansktop	1940
+danspunk	2842
+darbuka	6
+dark ambient	3
+dark black metal	10
+dark cabaret	47
+dark clubbing	46
+dark disco	16
+dark electro	52
+dark hardcore	10
+dark jazz	37
+dark minimal techno	33
+dark postpunk	66
+dark progressive house	28
+dark psytrance	1
+dark rock	90
+dark techno	29
+dark trap	231
+dark wave	249
+darkstep	11
+darksynth	15
+dayton indie	15
+dbeat	8
+dc hardcore	83
+death metal	707
+death n roll	39
+deathcore	8
+deathgrass	5
+deathgrind	19
+deathrash	99
+deathrock	42
+deathstep	1
+deconstructed club	2
+deep acoustic pop	2
+deep adult standards	344
+deep ambient	1
+deep big room	28
+deep brazilian pop	19
+deep breakcore	1
+deep ccm	64
+deep chill	3
+deep christian rock	128
+deep classic garage rock	5
+deep comedy	1
+deep contemporary country	22
+deep dance pop	6
+deep darkpsy	7
+deep deep house	12
+deep deep tech house	1
+deep delta blues	25
+deep disco	173
+deep discofox	3
+deep disco house	68
+deep dnb	14
+deep dubstep	7
+deep east coast hip hop	7
+deep eurodance	4
+deep euro house	124
+deep flow	5
+deep folk metal	9
+deep free jazz	19
+deep freestyle	6
+deep funk	4
+deep funk house	1
+deep funk ostentacao	8
+deep german hip hop	426
+deep german indie	16
+deep german punk	2
+deep g funk	7
+deep gothic postpunk	3
+deep groove house	289
+deep happy hardcore	10
+deep hardcore	1
+deep hardcore punk	2
+deep hardtechno	3
+deep house	568
+deep idm	21
+deep indie rock	1
+deep italo disco	7
+deep jazz fusion	3
+deep latin alternative	37
+deep latin christian	76
+deep liquid	6
+deep liquid bass	3
+deep melodic hard rock	2
+deep melodic metalcore	1
+deep minimal techno	45
+deep motown	4
+deep neofolk	10
+deep neosynthpop	1
+deep new americana	54
+deep new wave	50
+deep norteno	28
+deep northern soul	3
+deep pop edm	57
+deep powerpop punk	6
+deep progressive house	8
+deep progressive trance	27
+deep psychobilly	9
+deep punk rock	11
+deep ragga	258
+deep rai	11
+deep rb	4
+deep regional mexican	519
+deep smooth jazz	10
+deep smooth rb	1
+deep soft rock	115
+deep soul house	8
+deep soundtrack	27
+deep southern soul	7
+deep southern trap	38
+deep space rock	4
+deep sunset lounge	3
+deep talent show	60
+deep tech house	12
+deep techno	9
+deep tropical house	136
+deep turkish pop	1271
+deep underground hip hop	23
+deep uplifting trance	508
+deep vocal house	1
+deep vocal jazz	4
+delta blues	844
+dembow	362
+demoscene	1
+denpakei	40
+denton tx indie	7
+denver indie	1
+depressive black metal	9
+derby indie	2
+desert blues	45
+desi hip hop	510
+desi pop	14807
+desi trap	130
+dessin anime	67
+destroy techno	24
+detroit hip hop	409
+detroit house	26
+detroit rock	313
+detroit techno	33
+detroit trap	12
+detske pesnicky	261
+detske pisnicky	188
+detski pesnichki	109
+detskie pesni	67
+detskie rasskazy	77
+deutsch disney	75
+devon indie	7
+dfw rap	65
+dhrupad	5
+didgeridoo	26
+digital hardcore	56
+dinner jazz	33
+dirty south rap	981
+dirty texas rap	40
+disco	5257
+disco house	395
+disco polo	214
+discofox	168
+disney	515
+disney dansk	121
+disney espanol	96
+disney horspiele	293
+disney italiano	111
+disney norsk	48
+disney portugues	19
+disney portugues brasil	12
+disney russian	2
+disney svenska	59
+diva house	404
+dixieland	1128
+diy pop punk	3
+dizi	4
+djent	11
+dmv rap	53
+dombra	1
+dominican indie	18
+dominican pop	1794
+dongyo	6
+doom metal	161
+doomcore	9
+doowop	1286
+dortmund indie	8
+double drumming	456
+doujin	5
+downtempo	702
+downtempo bass	7
+dragspel	40
+drama	49
+dream pop	1127
+dream trance	77
+dreamgaze	9
+dreamo	50
+dresden indie	3
+drift	23
+drill	53
+drill and bass	64
+drill espanol	30
+drill francais	75
+drill tuga	14
+drone	150
+drone folk	42
+drone metal	15
+drone rock	1
+drum and bass	355
+drumfunk	17
+dub	1060
+dub brasileiro	1
+dub metal	3
+dub poetry	27
+dub product	1
+dub punk	22
+dub reggae	9
+dub techno	28
+dublin indie	3
+dubstep	59
+dubsteppe	12
+duduk	10
+duluth indie	12
+dundee indie	2
+dunedin indie	23
+dunedin sound	58
+dungeon synth	18
+duranguense	161
+dusseldorf electronic	144
+dusseldorf indie	2
+dutch americana	64
+dutch blues	49
+dutch cabaret	443
+dutch classical piano	75
+dutch contemporary classical	13
+dutch death metal	2
+dutch disney	43
+dutch dnb	5
+dutch drill	21
+dutch edm	212
+dutch experimental	2
+dutch experimental electronic	4
+dutch folk	16
+dutch hip hop	1464
+dutch house	219
+dutch idol pop	2
+dutch indie	225
+dutch indie rock	28
+dutch jazz	20
+dutch metal	29
+dutch moombahton	2
+dutch musical	15
+dutch pop	2738
+dutch prog	190
+dutch punk	9
+dutch punk rock	6
+dutch rap pop	1062
+dutch rb	21
+dutch rock	2539
+dutch singersongwriter	38
+dutch tech house	9
+dutch trance	1397
+dutch trap	20
+dutch underground hip hop	1
+dweilorkest	5
+early american folk	6
+early avant garde	261
+early french punk	10
+early modern classical	2697
+early music	3318
+early music choir	133
+early music ensemble	181
+early reggae	62
+early romantic era	3875
+early synthpop	125
+early us punk	472
+east anglia indie	2
+east coast hip hop	2193
+east coast reggae	32
+eastern bloc groove	100
+easy listening	8410
+easycore	23
+eau claire indie	43
+ebm	186
+ecmstyle jazz	445
+ectofolk	121
+ecuadorian alternative rock	91
+ecuadorian indie	81
+ecuadorian pop	428
+edinburgh metal	1
+edm	6065
+edmonton indie	18
+egyptian alternative	5
+egyptian hip hop	3
+egyptian pop	113
+egyptian traditional	14
+el paso indie	23
+electra	64
+electric bass	313
+electric blues	2904
+electro	785
+electro bailando	13
+electro dub	18
+electro house	2281
+electro jazz	124
+electro latino	371
+electro swing	117
+electro trash	4
+electroacoustic composition	3
+electroacoustic improvisation	2
+electroclash	62
+electrofox	14
+electroindustrial	123
+electronic djent	5
+electronic rock	168
+electronic trap	199
+electronica	1706
+electronica argentina	145
+electronica chilena	12
+electronica cristiana	1
+electronica peruana	18
+electropop	2528
+electropop francais	44
+electropowerpop	41
+elektropunk	10
+elephant 	22
+emo	481
+emo mexicano	52
+emo punk	21
+emo rap	265
+emo rap italiano	33
+emocore	9
+emoviolence	3
+english baroque	404
+english indie rock	35
+english renaissance	25
+enka	306
+ensemble stars	45
+entehno	1947
+environmental	113
+epic black metal	1
+epic doom	18
+epicore	91
+er ge	89
+erhu	5
+eritrean pop	1
+erotica	2
+escape room	353
+essex indie	1
+estonian electronic	34
+estonian folk	28
+estonian hip hop	269
+estonian indie	79
+estonian jazz	10
+estonian metal	15
+estonian pop	948
+estonian rock	320
+ethereal wave	224
+etherpop	79
+ethiojazz	33
+ethiopian pop	12
+ethiopian traditional	5
+ethnomusicology	13
+ethnotronica	23
+eugene indie	2
+euphoric hardstyle	305
+euro hinrg	2
+eurobeat	195
+eurodance	2067
+europop	6694
+euroska	55
+eurovision	623
+euskal indie	2
+euskal metal	35
+euskal musica	61
+euskal rock	236
+eventyr	236
+exotica	1221
+experimental	2326
+experimental ambient	133
+experimental classical	5
+experimental dub	7
+experimental dubstep	3
+experimental guitar	17
+experimental hip hop	22
+experimental house	3
+experimental indie rock	1
+experimental jazz	1
+experimental poetry	3
+experimental pop	177
+experimental rb	3
+experimental rock	518
+experimental techno	4
+experimental vocal	124
+fado	1085
+fake	3
+fallen angel	1
+family gospel	2
+faroese folk	2
+faroese indie	5
+faroese jazz	1
+faroese pop	28
+faroese rock	3
+fast melodic punk	14
+festigal	184
+fidget house	50
+field recording	1
+fijian pop	17
+filmi	28048
+filter house	386
+filthstep	9
+final fantasy	163
+fingerstyle	69
+finlandssvenska musik	11
+finnish alternative rock	276
+finnish black metal	24
+finnish blues	107
+finnish choir	75
+finnish classical	124
+finnish contemporary classical	22
+finnish dance pop	2701
+finnish death metal	183
+finnish doom metal	28
+finnish edm	178
+finnish electro	10
+finnish electronic	2
+finnish folk	16
+finnish hardcore	13
+finnish hard rock	288
+finnish heavy metal	116
+finnish hip hop	1570
+finnish idol pop	18
+finnish indie	476
+finnish jazz	38
+finnish melodeath	195
+finnish metal	803
+finnish modern jazz	16
+finnish new wave	400
+finnish pop	3333
+finnish pop punk	182
+finnish postpunk	41
+finnish power metal	230
+finnish progressive metal	30
+finnish progressive rock	212
+finnish punk	402
+finnish reggae	46
+finnish rockabilly	15
+finnish soul	54
+finnish tango	175
+finnish trap	147
+finnish worship	14
+firenze indie	18
+fisarmonica	1
+flamenco	1022
+flamenco fusion	127
+flamenco guitar	236
+flamenco urbano	252
+flemish folk	85
+flick hop	1
+flint hip hop	11
+float house	62
+florida death metal	70
+florida rap	67
+flute rock	495
+fluxwork	1
+fo jing	82
+focus	49
+focus beats	17
+focus trance	52
+folclor afrocolombiano	48
+folclor colombiano	164
+folclore castilla y leon	12
+folclore extremeno	5
+folclore jujeno	165
+folclore navarra	5
+folclore portugues	9
+folclore salteno	430
+folclore santiagueno	202
+folclore tucumano	116
+folk	9117
+folk black metal	22
+folk brasileiro	121
+folk cantabria	1
+folk metal	125
+folk metal latinoamericano	6
+folk punk	179
+folk rock	15497
+folk rock italiano	969
+folk siciliana	5
+folklore argentino	2029
+folklore boliviano	869
+folklore chileno	135
+folklore ecuatoriano	120
+folklore nuevo argentino	13
+folklore panameno	108
+folklore paraguayo	34
+folklore peruano	191
+folklore quebecois	3
+folklore uruguayo	890
+folklore venezolano	48
+folklore veracruzano	20
+folkmusik	593
+folkpop	341
+folktronica	28
+football	11
+footwork	5
+forest psy	4
+forro	775
+forro de favela	67
+forro gospel	10
+forro instrumental	25
+forro tradicional	360
+fort worth indie	2
+fourth world	482
+francoflemish school	3
+francoton	2708
+frankfurt electronic	70
+frauenrap	86
+freak folk	540
+freakbeat	581
+free folk	1
+free improvisation	306
+free jazz	1585
+freestyle	241
+fremantle indie	12
+french baroque	53
+french classical piano	409
+french contemporary classical	3
+french death metal	21
+french dub	18
+french experimental rock	5
+french folk	21
+french folk pop	133
+french garage rock	11
+french hip hop	2709
+french indie folk	25
+french indie pop	703
+french indietronica	286
+french jazz	501
+french metal	35
+french movie tunes	239
+french oi	28
+french opera	380
+french orchestra	258
+french pop	4986
+french postpunk	70
+french psychedelic	19
+french punk	107
+french reggae	980
+french renaissance	1
+french rock	2588
+french romanticism	690
+french shoegaze	18
+french soundtrack	403
+french stoner rock	1
+french synthpop	299
+french tech house	19
+french techno	45
+french worship	23
+frenchcore	41
+frevo	17
+full on	19
+funana	33
+funeral doom	10
+funk	7644
+funk bh	28
+funk  bpm	23
+funk carioca	1283
+funk consciente	82
+funk das antigas	102
+funk evangelico	9
+funk melody	52
+funk metal	893
+funk mexicano	18
+funk ostentacao	466
+funk paulista	169
+funk pop	130
+funk rock	1249
+funky breaks	34
+funky house	113
+funky tech house	93
+fussball	2
+future ambient	1
+future bass	110
+future funk	12
+future garage	47
+future house	57
+future rock	75
+futurepop	34
+g	33
+g funk	884
+gabba	159
+gabonese pop	13
+gaian doom	10
+gainesville indie	3
+gaita	12
+gaita zuliana	27
+galante era	93
+galego	30
+galician folk	25
+galician rock	165
+gambian pop	1
+gamecore	2
+gamelan	19
+gaming dubstep	11
+gaming edm	126
+gangster rap	3827
+garage house	68
+garage pop	8
+garage psych	126
+garage punk	17
+garage rock	537
+garage rock mexicano	4
+garage rock revival	63
+garhwali pop	14
+gauze pop	184
+gbvfi	156
+geek folk	13
+geek rock	28
+gengetone	1
+georgian alternative	1
+georgian electronic	1
+georgian folk	1
+georgian pop	7
+german alternative rap	141
+german alternative rock	238
+german baroque	2512
+german black metal	8
+german ccm	4
+german choir	164
+german classical piano	227
+german cloud rap	116
+german contemporary classical	1
+german country	111
+german dance	308
+german dark minimal techno	4
+german dnb	2
+german drill	136
+german electronica	10
+german hard rock	453
+german heavy metal	130
+german hip hop	1861
+german house	62
+german indie	264
+german indie folk	23
+german indie pop	12
+german indie rock	19
+german jazz	60
+german literature	117
+german metal	881
+german metalcore	12
+german oi	58
+german opera	464
+german orchestra	938
+german pagan metal	1
+german pop	2570
+german pop rock	102
+german posthardcore	4
+german postrock	2
+german power metal	200
+german punk	354
+german punk rock	22
+german rb	24
+german reggae	185
+german renaissance	4
+german rock	2452
+german rockabilly	5
+german romanticism	3222
+german shoegaze	1
+german show tunes	71
+german singersongwriter	70
+german ska	65
+german soundtrack	177
+german stoner rock	2
+german street punk	17
+german tech house	35
+german techno	917
+german thrash metal	89
+german trance	303
+german trap	185
+german underground rap	123
+german viral rap	14
+german worship	3
+ghanaian alternative	3
+ghanaian hip hop	21
+ghanaian pop	4
+ghazal	5346
+ghent indie	25
+ghettotech	18
+ghouse	39
+girl group	617
+glam metal	2362
+glam punk	147
+glam rock	3903
+glasgow indie	12
+glee club	19
+glitch	37
+glitch hop	30
+glitch pop	6
+glitchcore	24
+glitter trance	5
+goa psytrance	1
+goa trance	14
+gochiusa	2
+gogo	8
+goralski	11
+goregrind	6
+gospel	471
+gospel antigas	384
+gospel blues	77
+gospel italiano	14
+gospel rap	2
+gospel rb	66
+gospel reggae	11
+gospel singers	50
+gospel soul	44
+gothabilly	43
+gothenburg hip hop	22
+gothenburg indie	121
+gothenburg metal	127
+gothic alternative	1
+gothic americana	13
+gothic black metal	40
+gothic metal	494
+gothic postpunk	28
+gothic rock	413
+gothic symphonic metal	224
+gotlandsk musik	15
+gqom	21
+granada indie	46
+grand rapids indie	2
+grave wave	43
+graz indie	17
+grebo	60
+greek black metal	15
+greek clarinet	64
+greek contemporary classical	323
+greek downtempo	16
+greek drill	187
+greek folk	22
+greek guitar	339
+greek hip hop	909
+greek house	38
+greek indie	1278
+greek indie rock	12
+greek jazz	17
+greek metal	47
+greek pop	3741
+greek psychedelic rock	41
+greek punk	18
+greek rock	42
+greek swing	161
+greek techno	3
+greek trap	768
+greek underground rap	444
+greenlandic pop	9
+gregorian chant	247
+grime	397
+grime brasileiro	3
+grimewave	3
+grindcore	10
+griot	52
+grisly death metal	1
+groove gospel	44
+groove metal	394
+groove room	69
+grunge	940
+grunge pop	10
+grupera	1853
+gruperas inmortales	1257
+guadalajara indie	38
+guam indie	2
+guaracha	19
+guatemalan metal	40
+guatemalan pop	16
+guggenmusik	4
+guidance	136
+guinean pop	18
+guitarra argentina	122
+guitarra clasica	268
+guitarra portuguesa	56
+gujarati garba	34
+gujarati pop	91
+gulf hip hop	7
+gumbe	1
+gundam	21
+gwoka	1
+gyerekdalok	342
+gymcore	39
+gypsy	3
+gypsy fusion	22
+gypsy jazz	335
+gypsy punk	46
+haitian dance	8
+haitian gospel	72
+haitian traditional	40
+hakkapop	10
+halftime dnb	1
+halifax indie	15
+halloween	15
+hamburg electronic	117
+hamburg hip hop	305
+hamburg indie	15
+hamburger schule	24
+hamilton on indie	8
+hammered dulcimer	2
+hammond organ	335
+hands up	273
+hangoskonyvek	71
+hangpan	3
+happy hardcore	327
+hard alternative	11
+hard bass	23
+hard bop	6730
+hard dance	3
+hard glam	1
+hard house	19
+hard minimal techno	12
+hard rock	11615
+hard rock brasileiro	381
+hard rock mexicano	7
+hard stoner rock	4
+hard techno	2
+hard trance	59
+hardcore	79
+hardcore breaks	5
+hardcore hip hop	2264
+hardcore punk	634
+hardcore punk espanol	25
+hardcore techno	432
+hardingfele	10
+hardstyle	202
+hardvapour	2
+harlem hip hop	122
+harlem renaissance	2881
+harmonica blues	413
+harmonica jazz	52
+harmonikka	61
+harp	94
+harpsichord	116
+haryanvi pop	72
+hauntology	18
+haur kantak	7
+hawaiian	325
+hawaiian hip hop	13
+hawaiian indie	1
+healing	180
+heartland rock	2390
+heavy alternative	5
+heavy gothic rock	1
+heavy psych	1
+hengelliset laulut	131
+highlife	60
+himachali pop	3
+himalayan folk	2
+hindi hip hop	156
+hindi indie	86
+hindi worship	3
+hindustani classical	335
+hindustani instrumental	90
+hindustani vocal	229
+hinos ccb	12
+hinrg	472
+hip hop	7751
+hip hop boliviano	2
+hip hop cubano	37
+hip hop quebecois	23
+hip hop tuga	754
+hip house	1299
+hip pop	2851
+hiplife	5
+histoire pour enfants	13
+historic classical performance	530
+historic orchestral performance	3037
+historic piano performance	878
+historic string quartet	105
+historical keyboard	28
+historically informed performance	526
+hjemmesnekk	3
+hmong pop	7
+hoerspiel	10996
+hokkaido indie	84
+hokkien pop	665
+hollywood	1529
+honeyworks	12
+hong kong hip hop	137
+hong kong indie	263
+hong kong rock	268
+hong kong tv drama	27
+honky tonk	409
+honkytonk piano	38
+hopebeat	5
+horror punk	355
+horror punk brasileiro	2
+horror synth	7
+horrorcore	11
+house	1364
+house argentino	2
+houston rap	135
+huapango	4
+huayno	302
+huayno popular	105
+hula	25
+humppa	455
+hungarian choir	5
+hungarian classical performance	386
+hungarian classical piano	232
+hungarian contemporary classical	4
+hungarian edm	80
+hungarian folk	663
+hungarian hip hop	484
+hungarian indie	16
+hungarian metal	150
+hungarian pop	761
+hungarian punk	191
+hungarian rock	1535
+hungarian techno	4
+hungarian underground rap	112
+hurdygurdy	47
+hyperpop	62
+hyphy	243
+hypnosis mic	21
+hz	6
+icelandic black metal	2
+icelandic choir	116
+icelandic classical	26
+icelandic electronic	125
+icelandic experimental	71
+icelandic folk	331
+icelandic hip hop	436
+icelandic indie	271
+icelandic jazz	165
+icelandic metal	41
+icelandic pop	4098
+icelandic rock	2243
+icelandic traditional	109
+idaho indie	8
+idol	36
+idol kayo	925
+idol rock	68
+igbo traditional	8
+ilahiler	46
+illbient	2
+ilocano pop	106
+impressionism	1286
+indian classical	824
+indian edm	53
+indian electronic	4
+indian folk	134
+indian fusion	138
+indian indie	227
+indian instrumental	328
+indian instrumental rock	1
+indian jazz	28
+indian percussion	24
+indian rock	60
+indian singersongwriter	63
+indian techno	2
+indian underground rap	3
+indian violin	31
+indiana hip hop	4
+indie anthemfolk	196
+indie arequipeno	15
+indie boliviano	46
+indie cafe pop	662
+indie canario	1
+indie catala	187
+indie cordoba	9
+indie curitibano	9
+indie deutschrap	40
+indie dream pop	3
+indie electronica	14
+indie electropop	84
+indie emo	3
+indie extremena	168
+indie folk	959
+indie folk argentino	11
+indie folk italiano	13
+indie fuzzpop	10
+indie game soundtrack	14
+indie garage rock	80
+indie hip hop	8
+indie jazz	89
+indie liguria	86
+indie napoletano	1
+indie platense	14
+indie pop	1184
+indie pop rap	100
+indie pop rock	1
+indie poptimism	575
+indie psychpop	3
+indie punk	39
+indie quebecois	254
+indie rb	341
+indie rock	2040
+indie rock colombiano	3
+indie rockism	2
+indie rock italiano	63
+indie rock mexicano	46
+indie rock peruano	47
+indie salvadoreno	2
+indie shoegaze	2
+indie siciliano	14
+indie singersongwriter	1
+indie soul	410
+indie surf	50
+indie tico	25
+indie triste	34
+indie valenciana	8
+indie veneto	33
+indiecoustica	150
+indietronica	597
+indonesian alternative rock	229
+indonesian bamboo	3
+indonesian blues	33
+indonesian city pop	505
+indonesian deathcore	11
+indonesian death metal	12
+indonesian edm	15
+indonesian emo	39
+indonesian emo rap	1
+indonesian experimental	1
+indonesian folk	118
+indonesian folk pop	102
+indonesian hardcore	20
+indonesian hip hop	85
+indonesian idol pop	64
+indonesian indie	1308
+indonesian indie pop	37
+indonesian indie rock	43
+indonesian indigenous	6
+indonesian jazz	248
+indonesian metal	46
+indonesian neopsychedelia	2
+indonesian pop	3152
+indonesian pop punk	171
+indonesian posthardcore	12
+indonesian psychedelia	128
+indonesian punk	17
+indonesian rb	71
+indonesian reggae	94
+indonesian rock	517
+indonesian shoegaze	1
+indonesian ska	54
+indonesian viral pop	24
+indonesian worship	277
+indorock	32
+industrial	636
+industrial black metal	4
+industrial hardcore	7
+industrial hip hop	14
+industrial metal	693
+industrial rock	654
+industrial techno	4
+indy indie	5
+instrumental bluegrass	170
+instrumental funk	239
+instrumental grime	64
+instrumental lullaby	8
+instrumental math rock	2
+instrumental postrock	21
+instrumental rock	465
+instrumental soul	230
+instrumental stoner rock	15
+instrumental surf	95
+intelligent dance music	247
+iowa indie	26
+irish accordion	17
+irish ballad	27
+irish banjo	58
+irish classical	46
+irish contemporary classical	8
+irish country	486
+irish dance	23
+irish drill	1
+irish electronic	18
+irish experimental electronic	1
+irish fiddle	18
+irish flute	25
+irish folk	1497
+irish gaelic folk	5
+irish hip hop	26
+irish indie	8
+irish indie rock	24
+irish metal	4
+irish neotraditional	6
+irish pop	122
+irish pub song	191
+irish rebel song	27
+irish rock	860
+irish singersongwriter	192
+iskelma	3910
+islamic recitation	142
+isle of wight indie	2
+israeli classical	23
+israeli classical piano	174
+israeli folk	23
+israeli hip hop	440
+israeli indie	181
+israeli jazz	9
+israeli mediterranean	832
+israeli metal	4
+israeli pop	1601
+israeli punk	7
+israeli rock	3949
+israeli singersongwriter	1719
+israeli techno	13
+israeli trap	139
+italian adult pop	6682
+italian alternative	722
+italian baritone	652
+italian baroque	380
+italian baroque ensemble	9
+italian bass	661
+italian black metal	13
+italian blues	3
+italian classical guitar	1
+italian classical piano	76
+italian contemporary jazz	6
+italian death metal	14
+italian disco	771
+italian doom metal	1
+italian electronica	2
+italian folk	52
+italian folk metal	1
+italian gothic	6
+italian gothic metal	6
+italian hardcore	3
+italian hip hop	2382
+italian indie pop	1135
+italian jazz	31
+italian jazz fusion	6
+italian library music	11
+italian lounge	30
+italian metal	119
+italian mezzosoprano	262
+italian modern prog	3
+italian new wave	128
+italian opera	2684
+italian orchestra	1228
+italian pop	1833
+italian pop punk	10
+italian pop rock	299
+italian posthardcore	3
+italian post punk	20
+italian power metal	6
+italian progressive rock	248
+italian punk	49
+italian reggae	137
+italian renaissance	23
+italian romanticism	2678
+italian ska	56
+italian soprano	272
+italian soundtrack	323
+italian tech house	76
+italian techno	16
+italian tenor	1013
+italian trance	134
+italian underground hip hop	623
+italian violin	39
+italo dance	285
+italo house	25
+italogaze	1
+jackin house	10
+jacksonville indie	3
+jacoustic	547
+jain bhajan	11
+jalsat	29
+jam band	925
+jambient	28
+jamgrass	59
+jangle pop	219
+japanese alternative pop	76
+japanese alternative rock	615
+japanese beats	2
+japanese bedroom pop	1
+japanese blues	75
+japanese boom bap	10
+japanese chillhop	51
+japanese chill rap	11
+japanese choir	8
+japanese classical	595
+japanese classical performance	137
+japanese classical piano	40
+japanese concert band	17
+japanese contemporary classical	89
+japanese dance pop	67
+japanese disney	103
+japanese dream pop	45
+japanese edm	4
+japanese electronic	14
+japanese electropop	154
+japanese emo	369
+japanese experimental	16
+japanese folk	332
+japanese garage rock	83
+japanese girl punk	11
+japanese guitar	25
+japanese hardcore	1
+japanese heavy metal	188
+japanese house	6
+japanese idm	13
+japanese indie folk	7
+japanese indie pop	33
+japanese indie rock	61
+japanese instrumental	252
+japanese jazz	393
+japanese jazz fusion	211
+japanese jazztronica	64
+japanese math rock	7
+japanese melodic punk	9
+japanese metalcore	10
+japanese new wave	541
+japanese old school hip hop	189
+japanese orchestra	1
+japanese piano	1
+japanese pop punk	177
+japanese pop rap	39
+japanese posthardcore	50
+japanese postpunk	7
+japanese postrock	7
+japanese power metal	72
+japanese prog	21
+japanese psychedelic	74
+japanese punk rock	303
+japanese rb	314
+japanese rockabilly	300
+japanese shoegaze	86
+japanese singersongwriter	2158
+japanese ska	50
+japanese soul	61
+japanese soundtrack	680
+japanese techno	30
+japanese teen pop	212
+japanese traditional	16
+japanese trap	69
+japanese underground rap	35
+japanese vgm	248
+japanese vocal jazz	75
+japanese vtuber	3
+japanese worship	8
+javanese dangdut	94
+javanese gamelan	14
+jaw harp	1
+jawaiian	389
+jazz	12594
+jazz accordion	54
+jazz blues	4014
+jazz boom bap	44
+jazz brass	171
+jazz catala	2
+jazz chileno	67
+jazz clarinet	451
+jazz colombiano	1
+jazz cubano	112
+jazz dominicano	14
+jazz double bass	513
+jazz drums	600
+jazz flute	56
+jazz funk	3790
+jazz fusion	5896
+jazz guitar	1439
+jazz harp	59
+jazz house	8
+jazz metal	7
+jazz mexicano	17
+jazz orchestra	37
+jazz organ	235
+jazz piano	4212
+jazz pop	226
+jazz quartet	586
+jazz rap	251
+jazz rock	352
+jazz saxophone	3193
+jazz tico	46
+jazz trio	661
+jazz trombone	633
+jazz trumpet	2818
+jazz venezolano	31
+jazz vibraphone	392
+jazz violin	196
+jazztronica	102
+jazzy dnb	11
+jcore	15
+jdivision	264
+jewish a capella	23
+jewish cantorial	2
+jewish hip hop	89
+jewish pop	117
+jidol	276
+jig and reel	58
+jindie	19
+jmetal	435
+jordanian pop	14
+joropo	43
+jovem guarda	744
+jpixie	186
+jpop	8191
+jpop boy group	325
+jpop girl group	215
+jpoprock	3464
+jpunk	160
+jrap	359
+jreggae	130
+jrock	4253
+judaica	245
+jug band	172
+juju	6
+jump blues	537
+jump up	68
+jumpstyle	56
+jumptek	19
+jungle	86
+junior eurovision	4
+junior songfestival	7
+kaba gaida	5
+kabarett	414
+kabyle	76
+kalmar indie	67
+kamen rider	12
+kaneka	14
+kannada bhava geethe	46
+kannada hip hop	3
+kannada pop	15
+kansai indie	3
+kansas city hip hop	29
+kantele	16
+kapa haka	12
+karadeniz pop	161
+karadeniz turkuleri	512
+karneval	45
+kaseko	16
+kashmiri pop	26
+kavkaz	312
+kawaii edm	4
+kawaii future bass	5
+kawaii metal	28
+kayokyoku	1676
+kazakh indie	12
+kazakh pop	106
+kc indie	6
+kelowna bc indie	5
+kent indie	5
+kentucky hip hop	32
+kentucky indie	17
+kentucky metal	3
+kentucky mountain folk	29
+kentucky roots	39
+kenyan alternative	2
+kenyan hip hop	1
+keroncong	262
+khaleeji iraqi	50
+khaliji	130
+khmer	6
+kids dance party	16
+kinderchor	6
+kinderliedjies	7
+kindermusik	1062
+kindie	130
+kindie rock	29
+kingston on indie	138
+kirtan	113
+kiwi rock	402
+kizomba	207
+kizomba antigas	75
+klapa	8
+kleine hoerspiel	5035
+kleinkunst	238
+klezmer	90
+knoxville indie	1
+kodomo no ongaku	107
+koligeet	15
+kolkata indie	38
+kollywood	285
+kolsche karneval	97
+komedi	148
+kompa	42
+kora	21
+korean city pop	8
+korean classical performance	31
+korean classical piano	4
+korean dream pop	4
+korean electronic	1
+korean electropop	43
+korean indie folk	9
+korean indie rock	14
+korean instrumental	51
+korean jazz	1
+korean mask singer	3
+korean metal	2
+korean old school hip hop	22
+korean ost	32
+korean pop	343
+korean punk	1
+korean rb	127
+korean singersongwriter	18
+korean soundtrack	1
+korean superband	1
+korean trap	3
+korean worship	8
+kosovan folk	4
+kosovan pop	31
+koto	11
+kpop	1683
+kpop boy group	751
+kpop girl group	419
+krap	161
+krautrock	417
+kritika	80
+krock	66
+kuduro	1
+kuduro antigo	7
+kundalini	23
+kundiman	300
+kurdish folk	129
+kurdish hip hop	21
+kurdish pop	225
+kurdish rock	90
+kwaito	252
+kyushu indie	24
+la indie	96
+la pop	129
+laboratorio	410
+lafayette indie	2
+lagu aceh	1
+lagu bali	5
+lagu jawa	95
+lagu sunda	106
+lagu timur	16
+laiko	4381
+lancashire indie	7
+landler	4
+language	12
+late romantic era	4401
+latin	17820
+latin afrobeat	192
+latin alternative	7512
+latin american classical piano	350
+latin arena pop	2521
+latin christian	1797
+latin classical	629
+latin funk	191
+latin hip hop	4255
+latin house	52
+latin jazz	4600
+latin metal	944
+latin pop	11582
+latin rock	7685
+latin ska	30
+latin soundtrack	98
+latin surf rock	5
+latin talent show	133
+latin tech house	23
+latin viral pop	247
+latin viral rap	4
+latin worship	1430
+latincore	95
+latino comedy	2
+latintronica	24
+latinx alternative	4
+latvian electronic	4
+latvian folk	74
+latvian hip hop	245
+latvian indie	103
+latvian metal	11
+latvian pop	1641
+latvian rock	220
+lds	117
+lds youth	21
+lebanese indie	5
+lebanese pop	468
+leeds indie	4
+leicester indie	30
+leipzig electronic	21
+leipzig indie	3
+lesen	1
+lesotho traditional	1
+levenslied	1015
+lexington ky indie	1
+lezginka	1
+lgbtq hip hop	149
+library music	286
+libyan pop	4
+liedermacher	976
+light music	161
+lilith	1859
+limerick indie	7
+liquid funk	266
+lithuanian edm	41
+lithuanian electronic	26
+lithuanian folk	15
+lithuanian hip hop	300
+lithuanian indie	69
+lithuanian metal	1
+lithuanian pop	1159
+lithuanian rock	210
+little rock indie	2
+liverpool indie	25
+livetronica	36
+lldm	20
+lo star	11
+lofi	312
+lofi beats	103
+lofi brasileiro	1
+lofi chill	32
+lofi cover	7
+lofi emo	13
+lofi house	7
+lofi indie	45
+lofi vgm	1
+london indie	3
+london rap	79
+long island punk	1
+louisiana blues	416
+louisiana metal	15
+louisville indie	8
+louisville underground	9
+lounge	13790
+lounge house	2
+louvor	67
+louvor icm	14
+love live	2
+lovers rock	943
+lowercase	1
+lowlands hardcore	6
+luk thung	276
+lullaby	139
+lund indie	5
+lustrum	1
+lute	8
+luxembourgian hip hop	10
+luxembourgian indie	6
+macedonian folk	187
+macedonian indie	2
+macedonian pop	15
+macross	32
+madchester	1052
+madrigal	20
+maghreb	1
+magyar alternative	1456
+magyar kabare	11
+magyar mulatos	135
+magyar trap	173
+mahraganat	7
+mainland chinese pop	281
+mainland se asia metal	1
+makina	14
+makossa	77
+malawian pop	1
+malay rap	160
+malayalam pop	191
+malayalam worship	8
+malaysian hip hop	233
+malaysian indie	706
+malaysian mandopop	332
+malaysian metal	13
+malaysian pop	1489
+malaysian punk	73
+malaysian tamil pop	19
+malian blues	81
+malian traditional	5
+mallet	72
+maloya	10
+mambo	1032
+mambo chileno	21
+manchester hip hop	29
+manchester indie	11
+mande pop	155
+mandible	2
+mandolin	43
+mandopop	6625
+manele	547
+manguebeat	545
+manila sound	226
+manitoba indie	2
+manso indie	16
+mantra	35
+maracatu	1
+marathi devotional	46
+marathi hip hop	1
+marathi pop	113
+marathi traditional	330
+marching band	46
+mariachi	2727
+mariachi cristiano	435
+marimba de guatemala	93
+marimba mexicana	17
+marimba orquesta	100
+marrabenta	2
+martial industrial	26
+mashup	24
+maskandi	69
+massage	1
+math rock	20
+mathcore	3
+mathgrind	1
+mbalax	39
+mbira	61
+medieval	20
+medieval ensemble	8
+medieval folk	145
+medieval rock	126
+meditation	214
+medway sound	5
+melancholia	1761
+melbourne bounce	83
+melbourne bounce international	157
+melbourne indie	7
+mellow gold	19843
+melodic black metal	20
+melodic deathcore	2
+melodic death metal	362
+melodic dubstep	61
+melodic groove metal	30
+melodic hardcore	220
+melodic hard rock	157
+melodic metal	300
+melodic metalcore	302
+melodic power metal	3
+melodic progressive metal	1
+melodic rap	780
+melodic techno	69
+melodic thrash	145
+melodipop	15
+meme rap	66
+memphis americana	1
+memphis blues	376
+memphis hip hop	117
+memphis soul	1243
+mens choir	3
+mento	55
+merengue	1513
+merengue tipico	345
+merida indie	4
+merseybeat	2753
+messianic praise	236
+mestissatge	23
+metal	6452
+metal catala	2
+metal catarinense	5
+metal colombiano	15
+metal ecuatoriano	8
+metal gaucho	2
+metal guitar	78
+metal mineiro	52
+metal paranaense	3
+metal salvadoreno	3
+metal tico	2
+metal uruguayo	8
+metalcore	261
+metallic hardcore	4
+metropopolis	602
+mevlevi sufi	10
+mexican classical	35
+mexican classic rock	248
+mexican death metal	2
+mexican edm	9
+mexican hip hop	584
+mexican indie	286
+mexican metal	10
+mexican pop	3039
+mexican pop punk	68
+mexican postrock	1
+mexican rock	1110
+mexican rockandroll	598
+mexican son	56
+mexican tech house	8
+mexican traditional	53
+mgp	60
+miami bass	53
+miami hip hop	400
+miami indie	1
+miami metal	1
+michigan indie	4
+microhouse	230
+microtonal	10
+middle earth	179
+middle eastern traditional	18
+middle east hip hop	1
+midwest americana	5
+midwest emo	20
+milan indie	150
+military band	13
+military cadence	2
+military rap	5
+milwaukee indie	1
+minecraft	24
+minimal dnb	6
+minimal dub	32
+minimal dubstep	2
+minimal melodic techno	13
+minimal tech house	93
+minimal techno	305
+minimal wave	62
+minimalism	310
+minneapolis indie	5
+minneapolis metal	1
+minneapolis punk	4
+minneapolis sound	441
+minnesang	1
+minnesota hip hop	25
+mississippi hip hop	18
+mizrahi	1195
+mluvene slovo	221
+mod revival	168
+modern alternative pop	9
+modern alternative rock	753
+modern big band	6
+modern blues	883
+modern blues rock	197
+modern bollywood	8089
+modern cello	8
+modern country rock	428
+modern dream pop	32
+modern enka	28
+modern folk rock	120
+modern funk	97
+modern hard rock	116
+modern indie pop	27
+modern jangle pop	1
+modern jazz piano	57
+modern jazz trio	9
+modern oldtime	1
+modern performance	13
+modern power pop	96
+modern progressive rock	6
+modern reggae	462
+modern rock	3818
+modern salsa	481
+modern ska punk	51
+modern southern rock	30
+modern string quartet	19
+modern swing	76
+modern uplift	2
+modular synth	2
+molam	13
+moldovan pop	304
+mollywood	732
+mongolian folk	3
+mongolian pop	3
+montenegrin pop	20
+monterrey indie	11
+montreal indie	8
+moog	145
+moombahton	148
+moravian folk	45
+morelos indie	51
+morna	83
+moroccan pop	40
+motivation	128
+motown	6948
+mountain dulcimer	33
+movie tunes	1140
+mpb	8940
+mpb gospel	40
+mpgjr	36
+msica pitiusa	42
+mumbai indie	2
+mundart	501
+munich electronic	46
+munich indie	13
+murcia indie	20
+murga	78
+music box	26
+music hall	28
+musica afroperuana	103
+musica alagoana	139
+musica andina	1185
+musica andina colombiana	94
+musica andorra	6
+musica angolana	63
+musica antigua	9
+musica aragonesa	198
+musica ayacuchana	152
+musica baiana	1
+musica blumenauense	2
+musica caboverdiana	53
+musica calabrese	15
+musica canaria	74
+musica capixaba	2
+musica catalana	259
+musica catarinense	7
+musica colombiana instrumental	31
+musica costarricense	209
+musica costena	99
+musica crista reformada	2
+musica cristiana guatemalteca	84
+musica de fondo	98
+musica de intervencao	289
+musica eletronica gospel	1
+musica etnica	5
+musica evangelica instrumental	21
+musica folk asturiana	2
+musica gaucha	7
+musica gaucha tradicionalista	88
+musica goiana	1
+musica hondurena	16
+musica indigena brasileira	1
+musica indigena latinoamericana	82
+musica indigena mexicana	12
+musica infantil	332
+musica infantil catala	15
+musica istmena	15
+musica jibara	47
+musica juizforana	40
+musica llanera	316
+musica lombarda	107
+musica mallorquina	11
+musica mapuche	11
+musica maranhense	104
+musica menorquina	2
+musica mocambicana	3
+musica nicaraguense	78
+musica occitana	12
+musica para criancas	195
+musica paraibana	23
+musica paranaense	2
+musica para ninos	434
+musica per bambini	175
+musica pernambucana	17
+musica piemonteisa	5
+musica popular amazonense	19
+musica popular colombiana	626
+musica popular mineira	247
+musica popular paraense	87
+musica popular uruguaya	764
+musica portuguesa contemporanea	31
+musica potiguar	4
+musica potosina	20
+musica prehispanica	9
+musica rondoniense	1
+musica santomense	29
+musica sarda	282
+musica sinfonica	1
+musica sulmatogrossense	1
+musica tradicional cubana	1221
+musica tradicional dominicana	167
+musica triste brasileira	20
+musica tropical guatemalteca	148
+musica valenciana	21
+musica yucateca	65
+musical advocacy	7
+musicas espiritas	12
+musiikkia lapsille	779
+musik anakanak	123
+musikkorps	28
+musique acadienne	5
+musique ancienne	10
+musique concrete	13
+musique guadeloupe	91
+musique mandingue	4
+musique mariage algerien	3
+musique peule	5
+musique pour enfant quebecois	75
+musique pour enfants	272
+musique touareg	2
+muzica copii	131
+muzica crestina	26
+muzica populara	205
+muziek voor kinderen	439
+muzika lyeladim	164
+nadaswaram	1
+nagpuri pop	15
+naija worship	97
+namibian pop	3
+nantes indie	28
+narodna muzika	421
+nasheed	139
+nashville americana	3
+nashville hip hop	14
+nashville indie	12
+nashville singersongwriter	24
+nashville sound	1784
+nasyid	195
+native american	137
+native american contemporary	37
+native american flute	12
+native american hip hop	1
+native american spiritual	2
+navajo	16
+neapolitan funk	24
+nederlandse hardstyle	71
+nederpop	2135
+neo classical metal	840
+neo honky tonk	1
+neo kyma	576
+neo mellow	1914
+neo metal	11
+neo rb	18
+neo soul	2921
+neo souljazz	1
+neoclassical	170
+neoclassical darkwave	193
+neoclassicism	1459
+neocrust	8
+neofolk	28
+neokraut	4
+neomelodici	58
+neon pop punk	168
+neopagan	22
+neoprogressive	285
+neopsicodelia brasileira	4
+neopsychedelic	202
+neorockabilly	77
+neosingersongwriter	44
+neosynthpop	176
+neotango	15
+neotrad doom metal	1
+neotrad metal	93
+neotraditional bluegrass	7
+neotraditional country	1
+nepali indie	7
+nepali pop	24
+nerdcore	6
+nerdcore brasileiro	13
+neru	4
+neue deutsche harte	232
+neue deutsche todeskunst	25
+neue deutsche welle	306
+neue volksmusik	31
+neurofunk	35
+neurostep	1
+new age	1034
+new age piano	272
+new americana	674
+new beat	45
+new comedy	5
+new delhi indie	11
+new england americana	3
+new england emo	1
+new england experimental	1
+new england metal	1
+new french touch	415
+new isolationism	5
+new jack swing	2643
+new jersey hardcore	95
+new jersey indie	36
+new jersey punk	90
+new jersey rap	233
+new mexico music	46
+new orleans blues	360
+new orleans funk	108
+new orleans indie	2
+new orleans jazz	1353
+new orleans rap	282
+new rave	793
+new romantic	5148
+new tribe	23
+new wave	6565
+new wave of glam metal	14
+new wave of thrash metal	41
+new wave pop	8162
+new weird america	60
+new weird finland	7
+new york death metal	4
+new york drill	10
+new zealand classical	1
+newcastle indie	4
+newcastle nsw indie	1
+newfoundland indie	1
+ngoni	2
+nice indie	2
+nigerian hip hop	78
+nigerian pop	131
+nightcore	22
+nightrun	9
+ninja	229
+nintendocore	27
+nisiotika	126
+nitzhonot	4
+nl folk	128
+no wave	102
+noel quebecois	31
+noise pop	289
+noise punk	7
+noise rock	129
+nordic ambient	4
+nordic classical piano	30
+nordic contemporary classical	25
+nordic folk	74
+nordic folk metal	25
+nordic house	84
+nordic orchestra	73
+nordic postrock	29
+nordic soundtrack	22
+nordnorsk musikk	172
+nordnorsk rap	26
+norges stemme	17
+norsk lovsang	23
+norske viser	694
+norteno	2641
+nortenosax	50
+north carolina emo	2
+north carolina hip hop	145
+north carolina indie	6
+north carolina metal	5
+north carolina roots	57
+north dakota indie	1
+north east england indie	8
+northamptonshire indie	1
+northeast indian hip hop	2
+northeast indian indie	4
+northern irish indie	19
+northern irish punk	47
+northern soul	451
+northumbrian folk	1
+northwest china indie	10
+norwegian alternative rock	37
+norwegian americana	71
+norwegian black metal	95
+norwegian blues	20
+norwegian choir	11
+norwegian classical	99
+norwegian contemporary jazz	86
+norwegian country	742
+norwegian death metal	12
+norwegian doom metal	8
+norwegian experimental	13
+norwegian folk	28
+norwegian folk rock	255
+norwegian gospel	133
+norwegian hardcore	3
+norwegian hip hop	232
+norwegian house	3
+norwegian indie	780
+norwegian jazz	131
+norwegian metal	95
+norwegian pop	2445
+norwegian pop rap	357
+norwegian prog	64
+norwegian psychedelic	2
+norwegian punk	1
+norwegian punk rock	27
+norwegian rock	1901
+norwegian singersongwriter	211
+norwegian space disco	10
+norwegian trap	39
+nottingham indie	51
+nouvelle chanson francaise	450
+nova canco	273
+nova mpb	1905
+nova musica carioca	15
+nova musica maranhense	3
+nova musica paulista	16
+nova musica pernambucana	139
+novelty	73
+novo rock gaucho	12
+nu age	7
+nu disco	120
+nu gaze	357
+nu jazz	694
+nu metal	3314
+nu skool breaks	31
+nubian traditional	18
+nucumbia	227
+nueva cancion	4755
+nueva ola chilena	140
+nueva ola peruana	115
+nueva trova chilena	47
+nuevo flamenco	127
+nuevo folklore argentino	18
+nuevo folklore mexicano	20
+nuevo regional mexicano	1448
+nuevo tango	124
+numetalcore	5
+nursery	58
+nwobhm	417
+nwocr	3
+nwothm	81
+ny roots	2
+nyahbinghi	1
+nyc pop	37
+nyc rap	167
+nyckelharpa	3
+nyhc	81
+nz childrens music	27
+nz christian	39
+nz dnb	27
+nz electronic	30
+nz folk	20
+nz hardcore	3
+nz hip hop	167
+nz indie	64
+nz metal	15
+nz pop	260
+nz punk	4
+nz reggae	365
+nz singersongwriter	71
+oakland hip hop	163
+oakland indie	7
+oaxaca indie	12
+oberkrainer	64
+oc indie	2
+oc rap	4
+oceania soundtrack	31
+odia bhajan	15
+odia pop	18
+ohio hip hop	169
+ohio indie	10
+oi	227
+okc indie	27
+okinawan folk	75
+okinawan pop	372
+oklahoma country	473
+oktoberfest	49
+old school dancehall	637
+old school hard trance	25
+old school hip hop	583
+old school nederhop	9
+old school rap francais	620
+old school thrash	1188
+old school uk hip hop	10
+old west	16
+oldtime	864
+oldtime fiddle	2
+olympia wa indie	25
+omaha indie	3
+oneperson band	11
+ontario indie	101
+opera	7683
+opera chorus	546
+opera metal	131
+operatic pop	964
+operetta	681
+opm	2721
+oratory	25
+orchestra	7723
+orchestral performance	8272
+orebro indie	5
+organic ambient	2
+organic electronic	40
+organic house	138
+orgcore	21
+oriental classical	7
+oriental metal	48
+orkney and shetland folk	5
+orlando indie	4
+oromo pop	4
+orquesta cubana	1
+orquesta tipica	484
+orquesta tropical	3
+orquestas de galicia	3
+orthodox chant	40
+oshare kei	84
+oslo indie	26
+ostrock	92
+otacore	453
+oth indie	2
+ottawa indie	1
+ottawa rap	19
+oud	63
+oulu indie	28
+oulu metal	69
+outer hip hop	7
+outlaw country	2083
+outsider	191
+outsider house	21
+oxford choir	5
+oxford indie	128
+oyun havasi	303
+p funk	163
+pagan black metal	85
+pagode	3432
+pagode baiano	155
+pagode novo	214
+paidika tragoudia	104
+paisley underground	45
+pakistani folk	143
+pakistani hip hop	65
+pakistani indie	1
+pakistani pop	351
+pakistani rock	10
+palestinian pop	5
+palm desert scene	114
+panamanian indie	64
+panamanian pop	1409
+panamanian rock	180
+panpipe	36
+papuan traditional	1
+papuri	273
+paracana	2
+paraguayan indie	1
+paraguayan rock	14
+parody	63
+partido alto	451
+partyschlager	576
+pasodobles	23
+permanent wave	7817
+perreo	213
+persian alternative	14
+persian electronic	9
+persian hip hop	1
+persian pop	326
+persian rock	10
+persian traditional	33
+perth indie	50
+peruvian hip hop	56
+peruvian indie	52
+peruvian metal	5
+peruvian punk	69
+peruvian rock	853
+pet calming	6
+philly indie	96
+philly rap	178
+philly soul	864
+phleng phuea chiwit	317
+phonk	73
+piada	5
+pianissimo	8
+piano blues	510
+piano cover	23
+piano mpb	64
+piano rock	1385
+pibroch	6
+piedmont blues	336
+pinoy alternative rap	16
+pinoy edm	1
+pinoy hip hop	302
+pinoy idol pop	14
+pinoy indie	177
+pinoy metal	59
+pinoy pop punk	62
+pinoy praise	90
+pinoy rb	118
+pinoy reggae	351
+pinoy rock	918
+pinoy singersongwriter	35
+pinoy traditional	120
+pinoy trap	100
+pirate	45
+piseiro	61
+pittsburgh indie	2
+pittsburgh rap	153
+pittsburgh rock	6
+pixie	162
+plena uruguaya	463
+plunderphonics	3
+png pop	1
+poetry	244
+poezja spiewana	305
+pokemon	7
+polca paraguaya	120
+polish alternative	794
+polish alternative rap	189
+polish alternative rock	304
+polish black metal	2
+polish blues	181
+polish choir	14
+polish classical	1185
+polish classical piano	584
+polish contemporary classical	14
+polish death metal	4
+polish electronica	108
+polish folk	55
+polish folk metal	4
+polish hardcore	86
+polish hip hop	1895
+polish indie	127
+polish indie rock	36
+polish jazz	111
+polish metal	35
+polish modern jazz	1
+polish pop	1426
+polish postpunk	233
+polish postrock	2
+polish prog	65
+polish punk	313
+polish reggae	229
+polish rock	757
+polish synthpop	88
+polish techno	5
+polish thrash metal	18
+polish trap	908
+political hip hop	245
+polka	17
+polynesian hip hop	26
+polynesian pop	732
+polynesian traditional	1
+polyphonies corses	16
+polyphony	85
+pontian folk	5
+pony	1
+pop	13292
+pop ambient	6
+pop argentino	420
+pop catracho	4
+pop chileno	205
+pop costarricense	46
+pop dance	6364
+pop edm	808
+pop electronico	198
+pop emo	157
+pop flamenco	1373
+pop folk	15
+pop house	199
+pop lgbtq brasileira	120
+pop minang	52
+pop nacional	620
+pop nacional antigas	615
+pop paraguayo	5
+pop peruano	745
+pop punk	1390
+pop quebecois	113
+pop rap	7277
+pop rap brasileiro	135
+pop rb	585
+pop reggaeton	446
+pop rock	7147
+pop rock brasileiro	636
+pop romantico	2151
+pop soul	158
+pop teen brasileiro	74
+pop urbaine	2047
+pop venezolano	124
+pop violin	45
+pop virale italiano	80
+popgaze	2
+popping	100
+pops orchestra	44
+popwave	6
+pornogrind	1
+porro	111
+portland hip hop	13
+portland indie	17
+portland metal	1
+portland punk	27
+portuguese black metal	16
+portuguese contemporary classical	6
+portuguese folk	56
+portuguese indie	90
+portuguese indie rock	22
+portuguese jazz	127
+portuguese metal	17
+portuguese pop	449
+portuguese rock	891
+postblack metal	1
+postdisco	2043
+postdisco soul	48
+postdoom metal	7
+postgrunge	1333
+posthardcore	401
+postmetal	25
+postminimalism	44
+postposthardcore	1
+postpunk	2287
+postpunk argentina	877
+postpunk brasileiro	5
+postrock	123
+postromantic era	3146
+postscreamo	43
+postteen pop	6543
+power bluesrock	3
+power electronics	1
+power metal	1591
+power noise	2
+power pop	988
+power thrash	64
+powerpop punk	28
+powerviolence	8
+poznan indie	1
+praise	51
+precure	13
+prepared piano	25
+preschool childrens music	221
+pretty rhythm	1
+prewar blues	141
+prog metal	3
+prog quebec	79
+progressive alternative	3
+progressive black metal	3
+progressive bluegrass	597
+progressive breaks	9
+progressive deathcore	3
+progressive death metal	24
+progressive doom	59
+progressive electro house	1138
+progressive groove metal	59
+progressive house	5929
+progressive jazz fusion	11
+progressive metal	476
+progressive metalcore	1
+progressive posthardcore	9
+progressive power metal	42
+progressive psytrance	66
+progressive rock	3703
+progressive sludge	3
+progressive thrash	25
+progressive trance	4475
+progressive trance house	257
+progressive uplifting trance	1318
+protest folk	73
+protopunk	1483
+protorap	1
+prototechno	332
+psalmen	98
+psicodelia brasileira	495
+psybass	4
+psybreaks	9
+psych gaze	2
+psychedelic bluesrock	174
+psychedelic doom	33
+psychedelic folk	397
+psychedelic folk rock	26
+psychedelic hip hop	93
+psychedelic pop	5
+psychedelic punk	7
+psychedelic rock	8930
+psychedelic soul	281
+psychedelic space rock	3
+psychedelic trance	165
+psychill	36
+psychobilly	129
+psychokore	2
+psydub	6
+psytech	1
+pub rock	1406
+puerto rican folk	249
+puerto rican indie	1
+puerto rican pop	1120
+puerto rican rock	50
+puglia indie	1
+punjabi folk	68
+punjabi hip hop	75
+punjabi pop	697
+punk	3382
+punk blues	456
+punk catala	22
+punk chileno	88
+punk colombiano	35
+punk ecuatoriano	5
+punk euskera	69
+punk galego	72
+punk melodico chileno	24
+punk mexicano	1
+punk n roll	203
+punk rock italiano	37
+punk rock mexicano	53
+punk ska	1
+punk tico	11
+punk tuga	196
+punk urbano	299
+punta	14
+punta rock	14
+purple sound	1
+pygmy music	1
+qawwali	191
+quartetto darchi	1
+quatuor a cordes	2
+quebec death metal	2
+quebec indie	26
+quebec punk	11
+queens hip hop	679
+queer country	25
+queercore	11
+quiet storm	6954
+quran	165
+rabindra sangeet	683
+radio symphony	122
+ragga jungle	13
+raggatek	1
+ragtime	301
+rai	163
+rajasthani folk	1
+rajasthani pop	19
+ranchera	8339
+rap	8012
+rap abc paulista	7
+rap algerien	38
+rap angolano	51
+rap antillais	19
+rap baiano	28
+rap baixada fluminense	14
+rap belge	156
+rap boricua	61
+rap calme	218
+rap capixaba	1
+rap catala	47
+rap catarinense	2
+rap cearense	32
+rap chileno	392
+rap conciencia	473
+rap conscient	1091
+rap criolo	55
+rap cristao	24
+rap cristiano	276
+rap df	94
+rap dominicano	454
+rap ecuatoriano	5
+rap espanol	344
+rap euskera	4
+rap feminino nacional	18
+rap francais	1061
+rap galego	8
+rap gaucho	4
+rap inde	244
+rap ivoire	4
+rap kreyol	84
+rap latina	260
+rap liegeois	9
+rap lyonnais	9
+rap maroc	7
+rap maromba	6
+rap marseille	562
+rap metal	994
+rap metal espanol	49
+rap mineiro	42
+rap montrealais	13
+rap nacional antigo	91
+rap napoletano	558
+rap nortista	1
+rap paraguayo	1
+rap paranaense	1
+rap pernambucano	6
+rap portuense	51
+rap rock	1308
+rap romantico	5
+rap sardegna	112
+rap tico	3
+rap tuga underground	73
+rap tunisien	37
+rap underground argentino	5
+rap underground colombiano	4
+rap underground espanol	179
+rap underground mexicano	72
+rap uruguayo	90
+rare groove	108
+rautalanka	139
+rave	168
+rave funk	26
+raw techno	15
+rawstyle	407
+rb	4761
+rb argentino	48
+rb brasileiro	105
+rb en espanol	154
+rb italiano	177
+reading	1497
+reading indie	46
+rebel blues	25
+rebetiko	1826
+recorder	8
+red dirt	45
+redneck	136
+reggae	1960
+reggae catala	21
+reggae cover	15
+reggae cristao	22
+reggae en espanol	674
+reggae fusion	1112
+reggae gaucho	68
+reggae maghreb	34
+reggae mexicano	16
+reggae peruano	27
+reggae rock	74
+reggae tico	54
+reggae tuga	102
+reggaeton	6435
+reggaeton chileno	74
+reggaeton colombiano	1355
+reggaeton cristiano	113
+reggaeton flow	2278
+reggaeton mexicano	18
+regional mexican	6344
+relaxative	33
+remix product	1
+renaissance	43
+rennes indie	105
+retechno	7
+retro metal	41
+retro soul	17
+reunion pop	19
+rhode island indie	7
+rhode island rap	6
+rhythm and blues	1336
+rhythm game	2
+riddim	122
+riddim dubstep	1
+rif	157
+riot grrrl	57
+ritmo kombina	22
+ritual ambient	1
+rkt	52
+rochester mn indie	2
+rochester ny indie	6
+rock	32208
+rock alagoano	3
+rock alternatif francais	78
+rock alternativo brasileiro	199
+rock alternativo espanol	65
+rock andaluz	382
+rock baiano	307
+rock brasiliense	274
+rock campineiro	1
+rock catala	224
+rock catracho	1
+rock cearense	1
+rock chapin	279
+rock cristiano	337
+rock curitibano	5
+rock dominicano	27
+rock drums	268
+rock en asturiano	29
+rock en espanol	10336
+rock gaucho	278
+rock goiano	17
+rock gospel brasileiro	146
+rock gotico	22
+rock independant francais	42
+rock in opposition	4
+rock kapak	1636
+rock keyboard	244
+rock mineiro	120
+rock nacional	3936
+rock nacional brasileiro	1644
+rock nica	3
+rock of gibraltar	40
+rock paraibano	1
+rock pernambucano	12
+rock piauiense	89
+rock progressif francais	45
+rock quebecois	201
+rock steady	752
+rock tico	127
+rock urbano mexicano	335
+rock uruguayo	1361
+rockabilly	4864
+rockabilly en espanol	74
+rockandroll	7071
+roda de samba	59
+rogaland indie	33
+rogaland musikk	344
+romanian classical piano	80
+romanian electronic	20
+romanian folk	314
+romanian indie	51
+romanian metal	5
+romanian pop	777
+romanian rap	825
+romanian rock	1129
+romanian trap	394
+romantico	262
+rome indie	246
+roots americana	27
+roots reggae	1734
+roots rock	7235
+roots worship	80
+rosario indie	13
+rosary	89
+rumba	2041
+rumba catalana	48
+rumba congolaise	45
+rune folk	18
+russelater	256
+russian alternative rock	616
+russian alt pop	277
+russian ccm	169
+russian chanson	490
+russian choir	8
+russian classical piano	830
+russian contemporary classical	3
+russian dance	128
+russian dance pop	439
+russian death metal	1
+russian dnb	6
+russian drill	198
+russian edm	188
+russian electronic	128
+russian emo	4
+russian emo rap	185
+russian experimental electronic	1
+russian folk	237
+russian folk metal	2
+russian folk rock	522
+russian gangster rap	263
+russian grime	203
+russian hardcore	4
+russian heavy metal	142
+russian hip hop	2088
+russian indie	98
+russian indie rock	32
+russian jazz	68
+russian metal	408
+russian metalcore	25
+russian modern classical	999
+russian nu metal	60
+russian old school hip hop	7
+russian orchestra	49
+russian pop	1616
+russian pop punk	46
+russian postpunk	290
+russian power metal	12
+russian punk	1291
+russian punk rock	778
+russian rave	55
+russian reggae	90
+russian rock	3489
+russian romance	39
+russian romanticism	1053
+russian shoegaze	5
+russian ska	592
+russian synthpop	24
+russian techno	3
+russian thrash metal	21
+russian trance	390
+russian trap	945
+russian underground rap	81
+russian viral pop	18
+russian viral rap	15
+ruta destroy	12
+rva indie	2
+rwandan traditional	1
+ryukoka	40
+ryukyu ongaku	50
+sacramento hip hop	16
+sacramento indie	87
+sacred steel	10
+sad rap	95
+salay	6
+salsa	5514
+salsa choke	233
+salsa colombiana	504
+salsa cristiana	23
+salsa cubana	86
+salsa international	2275
+salsa peruana	238
+salsa puertorriquena	1890
+salsa venezolana	250
+salzburg indie	3
+samba	5893
+samba de roda	714
+samba gospel	3
+samba moderno	170
+samba paulista	197
+samba reggae	207
+sambaenredo	185
+sambajazz	646
+sambarock	394
+sambass	11
+sami	25
+samoan pop	29
+san diego indie	5
+san diego rap	11
+san marcos tx indie	8
+sandalwood	68
+sanfona	38
+santa fe indie	5
+sarod	8
+saskatchewan indie	9
+scam rap	8
+scandinavian rb	81
+scandipop	247
+schlager	927
+schranz	17
+schweizer rap	118
+scifi metal	2
+scorecore	445
+scottish electronic	32
+scottish fiddle	6
+scottish folk	30
+scottish gaelic folk	1
+scottish hip hop	1
+scottish indie	288
+scottish indie folk	1
+scottish indie rock	14
+scottish jazz	3
+scottish metal	11
+scottish new wave	340
+scottish rock	315
+scottish singersongwriter	187
+scottish techno	7
+scratch	9
+scream rap	6
+screamo	233
+seattle hip hop	24
+seattle indie	22
+seattle metal	26
+second line	8
+sefardi	246
+sega	12
+sega mauricien	4
+seinen	34
+seiyu	48
+semarang indie	5
+semba	38
+senegalese traditional	4
+serbian electronic	8
+serbian folk	6
+serbian hip hop	5
+serialism	92
+sertanejo	3667
+sertanejo gospel	9
+sertanejo pop	2017
+sertanejo tradicional	1417
+sertanejo universitario	3527
+sesame street	27
+sesotho pop	28
+sevdah	372
+sevilla indie	1
+sevillanas	99
+shaabi	32
+shabad	66
+shakuhachi	10
+shamanic	89
+shamisen	3
+shanty	403
+shantykoren	1
+sheffield indie	191
+shehnai	1
+sheilat	11
+shibuyakei	1114
+shimmer pop	195
+shimmer psych	2
+shiver pop	41
+shoegaze	454
+shojo	1
+sholawat	146
+shonen	17
+show tunes	1166
+shred	141
+shush	11
+siberian folk	6
+sierreno	387
+sinaloa indie	2
+singaporean hip hop	32
+singaporean indie	5
+singaporean mandopop	449
+singaporean metal	2
+singaporean pop	371
+singaporean punk	2
+singaporean singersongwriter	161
+singersongwriter	5588
+singing bowl	1
+sinhala pop	13
+sinhala rap	2
+sinogaze	4
+sitar	50
+ska	1485
+ska argentino	1177
+ska catala	18
+ska chileno	205
+ska espanol	54
+ska jazz	54
+ska mexicano	221
+ska punk	419
+ska revival	374
+skansk musik	466
+skate punk	1082
+skiffle	12
+skramz	5
+sky room	101
+slackkey guitar	81
+slam poetry	40
+slap house	540
+slavic folk metal	7
+slavic metal	26
+slayer	43
+slc indie	4
+sleaze rock	308
+sleep	709
+slovak electronic	14
+slovak folk	166
+slovak hip hop	624
+slovak indie	15
+slovak pop	3357
+slovak rock	1085
+slovenian electronic	9
+slovenian folk	15
+slovenian indie	2
+slovenian pop	20
+slovenian rock	4
+slow game	2
+slowcore	103
+sludge metal	39
+small room	11
+smooth jazz	1233
+smooth saxophone	259
+smooth soul	28
+smutny rap	25
+soca	257
+socal pop punk	334
+social media pop	176
+soda pop	6
+soft rock	17728
+solipsynthm	1
+solomon islands pop	2
+son cubano	68
+son cubano clasico	108
+son jarocho	2
+song poem	12
+sophistipop	1562
+sotalaulut	125
+soukous	117
+soul	13085
+soul blues	1165
+soul flow	6
+soul jazz	5889
+souldies	125
+soulful house	158
+sound	39
+sound art	7
+sound collage	1
+sound team	11
+soundtrack	2252
+south african alternative	252
+south african choral	124
+south african country	91
+south african deep house	9
+south african gospel	367
+south african hip hop	166
+south african house	127
+south african jazz	522
+south african pop	1520
+south african pop dance	156
+south african punk	25
+south african rock	128
+south african trap	95
+south carolina hip hop	76
+south carolina indie	3
+south carolina metal	1
+south dakota indie	1
+southampton indie	3
+southeast asian postrock	12
+southern china indie	3
+southern gospel	23
+southern hip hop	2804
+southern metal	10
+southern rock	1156
+southern soul	2903
+southern soul blues	45
+soviet synthpop	214
+sovietwave	10
+spa	2
+space age pop	879
+space ambient	15
+space rock	486
+spacewave	2
+spanish baroque	8
+spanish blues	1
+spanish classical	384
+spanish classical piano	20
+spanish electronic	1
+spanish electropop	3
+spanish experimental	1
+spanish folk	106
+spanish folk metal	76
+spanish folk rock	30
+spanish hip hop	506
+spanish indie folk	15
+spanish indie pop	390
+spanish indie rock	1
+spanish invasion	220
+spanish jazz	6
+spanish metal	392
+spanish modern rock	76
+spanish new wave	1305
+spanish noise pop	66
+spanish pop	4997
+spanish pop rock	988
+spanish postpunk	15
+spanish prog	119
+spanish progressive rock	1
+spanish punk	882
+spanish reggae	19
+spanish renaissance	13
+spanish rock	776
+spanish rockabilly	40
+spanish synthpop	89
+spanish techno	8
+speed garage	59
+speed metal	870
+speedcore	38
+speedrun	36
+spiritual hip hop	3
+spiritual jazz	251
+spirituals	365
+spytrack	94
+st century classical	3
+st louis rap	64
+starogradska	5
+stateside dnb	2
+steampunk	37
+steel guitar	76
+steelpan	4
+stockholm indie	3
+stomp and flutter	16
+stomp and holler	849
+stomp and whittle	1
+stomp pop	40
+stoner metal	179
+stoner rock	428
+straight edge	84
+straightahead jazz	92
+streektaal	167
+street band	7
+street punk	16
+street punk espanol	33
+streichquartett	21
+stride	6636
+string band	59
+string folk	42
+string orchestra	39
+string quartet	349
+strut	10
+substep	4
+sudanese pop	11
+sufi	16050
+sufi chant	5
+sundanese traditional	11
+sung poetry	476
+sungura	64
+sunset lounge	12
+sunshine pop	951
+suomi rock	4201
+suomirap	362
+suomisaundi	1
+super sentai	55
+supergroup	235
+surf music	492
+surf punk	18
+surinamese pop	17
+svensk indie	2
+svensk lovsang	65
+svensk progg	702
+swamp blues	59
+swamp pop	104
+swamp rock	503
+swancore	3
+swazi pop	2
+swedish alternative rock	1613
+swedish americana	70
+swedish black metal	41
+swedish blues	63
+swedish choir	20
+swedish classical	8
+swedish contemporary classical	3
+swedish country	392
+swedish dancehall	102
+swedish death metal	162
+swedish doom metal	38
+swedish drill	150
+swedish electronic	28
+swedish electropop	356
+swedish eurodance	158
+swedish fiddle	14
+swedish folk pop	9
+swedish gangsta rap	349
+swedish garage rock	71
+swedish hardcore	11
+swedish hard rock	173
+swedish heavy metal	6
+swedish hip hop	786
+swedish house	17
+swedish idol pop	300
+swedish indie folk	28
+swedish indie pop	114
+swedish indie rock	280
+swedish jazz	1471
+swedish jazz orkester	10
+swedish melodic rock	154
+swedish metal	349
+swedish metalcore	13
+swedish pop	3538
+swedish pop punk	7
+swedish posthardcore	6
+swedish postpunk	94
+swedish power metal	128
+swedish prog	264
+swedish progressive metal	36
+swedish psychedelic rock	10
+swedish punk	325
+swedish reggae	218
+swedish rockabilly	61
+swedish rockandroll	160
+swedish singersongwriter	315
+swedish soul	295
+swedish stoner rock	5
+swedish synth	18
+swedish synthpop	133
+swedish techno	12
+swedish trap	257
+swedish trap pop	565
+swedish tropical house	19
+swedish underground rap	29
+swing	9428
+swing italiano	152
+swing revival	7
+swiss alternative rock	47
+swiss black metal	13
+swiss classical piano	39
+swiss country	45
+swiss experimental	1
+swiss folk	389
+swiss hip hop	365
+swiss house	3
+swiss indie	514
+swiss indie folk	8
+swiss jazz	11
+swiss metal	21
+swiss pop	66
+swiss punk	6
+swiss reggae	39
+swiss rock	223
+swiss singersongwriter	6
+swiss techno	2
+swiss trap	21
+swiss worship	3
+sydney indie	1
+symphonic black metal	84
+symphonic death metal	17
+symphonic melodic death metal	2
+symphonic metal	393
+symphonic power metal	35
+symphonic rock	4383
+synth funk	264
+synth punk	72
+synthesizer	319
+synthetic classical	15
+synthpop	2855
+synthwave	32
+syrian pop	61
+szanty	24
+taarab	8
+tabla	32
+tagalog rap	244
+tagalog worship	332
+tahitian	30
+taiwan campus folk	683
+taiwan classical performance	6
+taiwan graduation song	5
+taiwan hip hop	266
+taiwan idol pop	183
+taiwan indie	427
+taiwan instrumental	25
+taiwan metal	5
+taiwan pop	2155
+taiwan punk	76
+taiwan rock	27
+taiwan singersongwriter	1233
+taiwanese indie	47
+taiwanese indigenous	29
+taiwanese pop	22
+talent show	365
+talentos brasileiros	1
+tallava	6
+tamaulipas indie	9
+tamaulipas rap	14
+tamborazo	15
+tamburica	5
+tamil devotional	130
+tamil hip hop	144
+tamil indie	3
+tamil pop	3283
+tamil worship	23
+tampa indie	4
+tango	3562
+tango cancion	96
+tanzanian pop	4
+tanzanian traditional	8
+tape club	24
+tar	1
+taraneem	2
+tarantella	4
+tatar pop	72
+tech house	384
+tech trance	117
+technical black metal	8
+technical deathcore	2
+technical death metal	91
+technical groove metal	22
+technical melodic death metal	3
+technical thrash	18
+techno	166
+techno argentina	1
+techno kayo	577
+tecnobanda	370
+tecnobrega	87
+teen pop	18
+tejano	717
+tekk	65
+tekno	1
+telugu devotional	100
+telugu hip hop	10
+telugu indie	1
+telugu worship	2
+tempe indie	24
+tennessee experimental	15
+tennessee hip hop	57
+terrorcore	2
+texas blues	607
+texas country	866
+texas latin rap	60
+texas pop punk	51
+texas punk	2
+texmex	118
+thai folk	102
+thai folk pop	480
+thai folk rock	694
+thai hip hop	200
+thai idol	122
+thai indie	313
+thai indie pop	332
+thai indie rock	326
+thai instrumental	158
+thai metal	39
+thai pop	2779
+thai pop rap	19
+thai rock	1383
+thai teen pop	206
+thai trap	105
+theme	99
+therapy	2
+theremin	51
+thrash core	153
+thrash metal	1114
+throat singing	4
+tibetan mantra	5
+tibetan pop	2
+tibetan traditional	4
+tijuana electronic	1
+tijuana indie	1
+timba	117
+tin pan alley	916
+tipico	492
+togolese pop	1
+tolkien metal	30
+tollywood	501
+tone	6
+tongan pop	6
+torch song	3831
+toronto indie	27
+toronto rap	350
+touken ranbu	10
+tpop girl group	4
+trad jazz catala	14
+trad quebecois	16
+traditional bluegrass	16
+traditional blues	2688
+traditional british folk	123
+traditional country	1138
+traditional english folk	1
+traditional folk	1454
+traditional funk	2
+traditional irish singing	8
+traditional reggae	1
+traditional rockabilly	24
+traditional scottish folk	16
+traditional ska	40
+traditional soul	16
+traditional southern folk	12
+trance	5397
+trance brasileiro	14
+trance mexicano	7
+trancecore	40
+transpop	21
+trap	2846
+trap argentino	458
+trap baiano	41
+trap boricua	192
+trap brasileiro	240
+trap carioca	36
+trap catala	25
+trap chileno	112
+trap colombiano	5
+trap cristao	8
+trap cristiano	1
+trap dominicano	87
+trap funk	38
+trap italiana	642
+trap latino	6933
+trap metal italiana	31
+trap mexicano	100
+trap peruano	41
+trap pesado	6
+trap queen	158
+trap soul	93
+trap triste	226
+trap tuga	153
+trap venezolano	39
+traprun	46
+trash rock	6
+trekkspill	34
+triangle indie	2
+tribal house	175
+trikiti	14
+trinidadian reggae	8
+trio batak	15
+trio cubano	18
+trio huasteco	21
+trip hop	926
+trival	6
+trombone brasileiro	4
+trondersk musikk	345
+tropical	11877
+tropical house	3207
+tropicalia	1824
+trot	5
+troubadour	1
+trova	1767
+trova mexicana	96
+truckdriving country	24
+tuareg guitar	2
+tucson indie	4
+tulsa indie	3
+tulum	1
+tuna	14
+tuna estudiantil	18
+tunisian pop	5
+turbo folk	555
+turin indie	33
+turkce drill	73
+turkce remix	18
+turkce trap metal	6
+turkish alternative	327
+turkish alternative rock	439
+turkish alt pop	269
+turkish classical	169
+turkish classical performance	30
+turkish edm	32
+turkish electronic	6
+turkish experimental	12
+turkish folk	4309
+turkish hip hop	1333
+turkish instrumental	389
+turkish jazz	3343
+turkish metal	240
+turkish modern jazz	120
+turkish pop	5322
+turkish postpunk	1
+turkish psych	1363
+turkish punk	107
+turkish reggae	17
+turkish rock	1888
+turkish singersongwriter	552
+turkish soundtrack	91
+turkish trap	683
+turkish trap pop	1420
+turntablism	424
+tuvan folk	1
+twee indie pop	1
+twee pop	90
+twoubadou	50
+tzadik	9
+ugandan pop	12
+uilleann pipes	94
+uk	83
+uk alternative hip hop	68
+uk alternative pop	114
+uk americana	161
+uk contemporary rb	128
+uk dance	578
+uk dancehall	60
+uk diy punk	1
+uk dnb	96
+uk doom metal	298
+uk drill	60
+uk dub	19
+uk experimental electronic	84
+uk funky	82
+uk garage	128
+uk hip hop	484
+uk house	44
+uk metalcore	80
+uk pop	1056
+uk pop punk	8
+uk posthardcore	11
+uk postpunk	1229
+uk reggae	285
+uk rockabilly	37
+uk stoner rock	2
+uk tech house	9
+uk worship	24
+ukg revival	25
+ukhc	3
+ukrainian choir	30
+ukrainian classical	262
+ukrainian classical piano	42
+ukrainian electronic	21
+ukrainian experimental	4
+ukrainian folk	13
+ukrainian hip hop	33
+ukrainian indie	130
+ukrainian pop	547
+ukrainian rock	311
+ukulele	40
+ulkucu sarkilar	71
+umbanda	478
+umea hardcore	6
+umea indie	1
+unblack metal	1
+underground hip hop	498
+underground power pop	68
+underground rap	117
+university choir	27
+uplifting trance	4669
+uppsala indie	15
+uptempo hardcore	102
+urban contemporary	5819
+urbano espanol	627
+uruguayan indie	68
+us power metal	159
+utah indie	1
+utapri	3
+uwielbienie	51
+uzbek pop	40
+uzbek traditional	1
+vaikiskos dainos	77
+vallenato	1686
+vallenato moderno	406
+vancouver indie	34
+vancouver metal	41
+vancouver punk	17
+vapor pop	21
+vapor soul	155
+vapor trap	124
+vapor twitch	91
+vaporwave	6
+vaqueiro	3
+variete francaise	168
+varmland rock	96
+vaudeville	111
+vbs	68
+veena	38
+vegan straight edge	10
+vegas indie	16
+velha guarda	3111
+venezuelan hip hop	245
+venezuelan indie	20
+venezuelan metal	1
+venezuelan rock	99
+veracruz indie	40
+vgm instrumental	1
+via	35
+victoria bc indie	3
+victorian britain	156
+video game music	280
+vienna indie	39
+vietnamese bolero	7
+vietnamese hip hop	1
+vietnamese pop	10
+vietnamese traditional	1
+viking black metal	41
+viking folk	18
+viking metal	109
+villancicos	26
+vinahouse	1
+vintage cantonese pop	199
+vintage chanson	447
+vintage chinese pop	2793
+vintage classical singing	112
+vintage country folk	44
+vintage dutch pop	332
+vintage finnish jazz	187
+vintage french electronic	330
+vintage gospel	19
+vintage hawaiian	52
+vintage hollywood	498
+vintage italian pop	352
+vintage italian soundtrack	451
+vintage jazz	2444
+vintage norwegian pop	89
+vintage oldtime	93
+vintage radio show	19
+vintage rockabilly	4
+vintage schlager	470
+vintage spanish pop	25
+vintage swedish pop	969
+vintage swing	115
+vintage taiwan pop	1261
+vintage tango	3868
+vintage western	6
+viola	56
+viola caipira	50
+viola da gamba	70
+violao	1150
+violao classico	42
+violin	1779
+viral pop	854
+viral pop brasileiro	2
+viral rap	80
+viral trap	9
+virgin islands reggae	10
+virginia hip hop	69
+virginia metal	13
+virginia punk	3
+visor	565
+vispop	58
+visual kei	729
+vlaamse cabaret	205
+vlaamse kinderliedje	272
+vlaamse rap	77
+vocal ensemble	11
+vocal harmony group	745
+vocal house	599
+vocal jazz	15201
+vocal trance	703
+vocaloid	221
+vogue	14
+volksmusik	683
+volkspop	102
+volkstumliche musik	4
+vpop	10
+waiata maori	87
+waiata mo tamariki	44
+warm drone	5
+warrington indie	10
+washboard	16
+washington indie	38
+wassoulou	19
+water	27
+wave	35
+wellington indie	11
+welsh choir	1
+welsh folk	26
+welsh hip hop	2
+welsh indie	19
+welsh metal	49
+welsh rock	133
+west african jazz	54
+west australian hip hop	11
+west coast rap	1251
+west coast reggae	6
+west coast trap	149
+west end	198
+west virginia indie	1
+west yorkshire indie	2
+western americana	3
+western mass indie	1
+western saharan folk	3
+western swing	335
+westvlaamse hip hop	17
+white noise	50
+wind ensemble	3
+wind quintet	3
+wind symphony	6
+winnipeg hip hop	3
+witch house	13
+womens choir	8
+womens music	118
+wonky	30
+worcester ma indie	1
+workout product	6
+world	1181
+world chill	58
+world devotional	3
+world fusion	179
+world meditation	21
+world worship	1261
+worship	1152
+wrestling	303
+wu fam	50
+wuhan indie	2
+wyoming indie	2
+wyoming roots	26
+xhosa	71
+xinyao	82
+xtra raw	35
+yacht rock	2663
+yaoi	10
+ye ye	1173
+yemeni pop	11
+yiddish folk	5
+yodeling	460
+yoga	3
+yoik	47
+york indie	22
+yorkshire folk	4
+youth orchestra	7
+yugoslav new wave	54
+yugoslav rock	394
+yuri	1
+zambian pop	3
+zen	1
+zespol dzieciecy	74
+zeuhl	7
+zhongguo feng	332
+zikir	51
+zillertal	129
+zim hip hop	1
+zim urban groove	93
+zimdancehall	1
+zither	6
+zolo	1318
+zouglou	31
+zouk	186
+zouk riddim	82
+zurich indie	1
+zydeco	27
