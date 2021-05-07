@@ -2,3 +2,4 @@
 data/artists.csv
 data/tracks.csv
 data/tracks_with_genres.csv
+figures/*
