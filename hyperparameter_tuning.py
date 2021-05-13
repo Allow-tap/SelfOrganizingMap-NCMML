@@ -33,12 +33,14 @@ cluster_method = AgglomerativeClustering(n_clusters=len(genres))
 # cluster_method = MiniBatchKMeans(n_clusters=len(genres))
 
 # Leave the rest
+print('Reading data...')
 tracks = pd.read_csv('data/tracks_with_genres.csv')
 tracks['genres'] = tracks['genres'].apply(ast.literal_eval)
 tracks = tracks.explode('genres')
 tracks.rename(columns={'genres': 'genre'}, inplace=True)
 tracks_subset = tracks[tracks['genre'].isin(genres)]
 
+print('Transforming data...')
 tracks_values = tracks_subset[features].values
 tracks_values = (tracks_values - tracks_values.mean(axis=0))\
                 / tracks_values.std(axis=0)
@@ -50,10 +52,11 @@ parameter_combinations = list(ParameterGrid({
     'learning_rate': learning_rates,
     'sigma': sigmas}))
 
-for params in parameter_combinations:
+print('Training models...')
+for i, params in enumerate(parameter_combinations):
     learning_rate, sigma = params['learning_rate'], params['sigma']
-    print(f'Running model with learning rate={learning_rate} and '
-          f'sigma={sigma}')
+    print(f'Running model {i+1} of {len(parameter_combinations)} with '
+          f'learning rate={learning_rate} and sigma={sigma}')
     som = MiniSom(som_neurons[0], som_neurons[1], len(features),
                   sigma=sigma, learning_rate=learning_rate)
 
