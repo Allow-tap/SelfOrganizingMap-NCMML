@@ -12,7 +12,7 @@ from sklearn.metrics import (calinski_harabasz_score, davies_bouldin_score,
 from sklearn.model_selection import ParameterGrid
 
 # Adjust these parameters
-som_neurons = (40, 40)
+som_neurons = (44, 44)
 epochs = 100
 learning_rates = [0.001, 0.01, 0.1]
 sigmas = [0.5, 1, 1.5]
@@ -51,7 +51,7 @@ parameter_combinations = list(ParameterGrid({
     'sigma': sigmas}))
 
 for params in parameter_combinations:
-    learning_rate, sigma = params['sigma'], params['learning_rate']
+    learning_rate, sigma = params['learning_rate'], params['sigma']
     print(f'Running model with learning rate={learning_rate} and '
           f'sigma={sigma}')
     som = MiniSom(som_neurons[0], som_neurons[1], len(features),
