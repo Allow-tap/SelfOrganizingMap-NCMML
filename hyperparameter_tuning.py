@@ -80,36 +80,35 @@ for i, params in enumerate(parameter_combinations):
 
         print(f'Silhouette score: {silhouette:.3f}')
         print(f'Davies-Bouldin score: {davies_bouldin:.3f} (lower is better)')
-        print(f'Calinski-Harabasz score: {calinski_harabasz:.3f}'
+        print(f'Calinski-Harabasz score: {calinski_harabasz:.3f} '
               f'(higher is better)\n')
 
         silhouette_scores.append(silhouette)
         davies_bouldin_scores.append(davies_bouldin)
         calinski_harabasz_scores.append(calinski_harabasz)
 
-    fig, ax1 = plt.subplots()
-    ax1.plot(silhouette_scores, color='b', linestyle='-', label='Silhouette')
-    ax1.plot(davies_bouldin_scores, color='b', linestyle='-.',
-             label='Davies-Bouldin')
-    ax1.plot(quantization_errors, color='b', linestyle='--',
-             label='Quantization error')
-    ax1.tick_params(axis='y', labelcolor='b')
-    ax1.set_xlabel('Epochs')
+        fig, ax1 = plt.subplots()
+        ax1.plot(silhouette_scores, color='b', linestyle='-', label='Silhouette')
+        ax1.plot(davies_bouldin_scores, color='b', linestyle='-.',
+                 label='Davies-Bouldin')
+        ax1.plot(quantization_errors, color='b', linestyle='--',
+                 label='Quantization error')
+        ax1.tick_params(axis='y', labelcolor='b')
+        ax1.set_xlabel('Epochs')
 
-    ax2 = plt.twinx()
-    ax2.plot(calinski_harabasz_scores, color='r', linestyle=':',
-             label='Calinski-Harabasz')
-    ax2.tick_params(axis='y', labelcolor='r')
-    ax1.legend()
-    ax2.legend()
-    fig.tight_layout()
+        ax2 = plt.twinx()
+        ax2.plot(calinski_harabasz_scores, color='r', linestyle=':',
+                 label='Calinski-Harabasz')
+        ax2.tick_params(axis='y', labelcolor='r')
+        ax1.legend()
+        ax2.legend()
+        fig.tight_layout()
 
-    cluster_method_name = type(cluster_method).__name__
+        cluster_method_name = type(cluster_method).__name__
 
-    plt.savefig(f'figures/{cluster_method_name}_training_'
-                f'lr_{learning_rate}_sigma_{sigma}.png')
-    plt.show()
+        plt.savefig(f'figures/{cluster_method_name}_training_'
+                    f'lr_{learning_rate}_sigma_{sigma}.png')
 
-    with open(f'models/{cluster_method_name}_training_'
-              f'lr_{learning_rate}_sigma_{sigma}.p', 'wb') as model_file:
-        pickle.dump(som, model_file)
+        with open(f'models/{cluster_method_name}_training_'
+                  f'lr_{learning_rate}_sigma_{sigma}.p', 'wb') as model_file:
+            pickle.dump(som, model_file)
