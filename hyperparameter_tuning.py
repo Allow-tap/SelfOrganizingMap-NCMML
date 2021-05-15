@@ -98,6 +98,7 @@ def evaluate_model(params):
         ax1.plot(x_range, davies_bouldin_scores, color='b',
                  linestyle='-.', label='Davies-Bouldin')
         ax1.tick_params(axis='y', labelcolor='b')
+        ax1.set_ylim(0, 2)
         ax1.set_xlabel('Epochs')
 
         ax2 = plt.twinx()
