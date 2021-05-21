@@ -1,0 +1,72 @@
+Model 1: 
+ Learning rate: 0.5 to 0 for 10 epochs, then 0.05 to 0 for 40 epochs.
+ Sigma: 37 to 1 for 10 epochs, then 3 to 1 for 40 epochs.
+
+Model 2: 
+ Learning rate: 0.5 to 0 for 10 epochs, then 0.05 to 0 for 40 epochs.
+ Sigma: 37 to 1 for 10 epochs, then 10 to 1 for 40 epochs.
+
+Model 3: 
+ Learning rate: 0.5 to 0 for 10 epochs, then 0.05 to 0 for 40 epochs.
+ Sigma: 20 to 1 for 10 epochs, then 3 to 1 for 40 epochs.
+
+Model 4: 
+ Learning rate: 0.1 to 0 for 10 epochs, then 0.01 to 0 for 40 epochs.
+ Sigma: 37 to 1 for 10 epochs, then 3 to 1 for 40 epochs.
+
+Model 5: 
+ Learning rate: 0.1 to 0 for 10 epochs, then 0.01 to 0 for 40 epochs.
+ Sigma: 37 to 1 for 10 epochs, then 10 to 1 for 40 epochs.
+
+Model 6: 
+ Learning rate: 0.1 to 0 for 10 epochs, then 0.01 to 0 for 40 epochs.
+ Sigma: 20 to 1 for 10 epochs, then 3 to 1 for 40 epochs.
+
+Model 7: 
+ Learning rate: 0.5 to 0 for 5 epochs, then 0.05 to 0 for 50 epochs.
+ Sigma: 37 to 1 for 5 epochs, then 3 to 1 for 50 epochs.
+
+Model 8: 
+ Learning rate: 0.5 to 0 for 5 epochs, then 0.05 to 0 for 50 epochs.
+ Sigma: 37 to 1 for 5 epochs, then 10 to 1 for 50 epochs.
+
+Model 9: 
+ Learning rate: 0.5 to 0 for 5 epochs, then 0.05 to 0 for 50 epochs.
+ Sigma: 20 to 1 for 5 epochs, then 3 to 1 for 50 epochs.
+
+Model 10: 
+ Learning rate: 0.1 to 0 for 5 epochs, then 0.01 to 0 for 50 epochs.
+ Sigma: 37 to 1 for 5 epochs, then 3 to 1 for 50 epochs.
+
+Model 11: 
+ Learning rate: 0.1 to 0 for 5 epochs, then 0.01 to 0 for 50 epochs.
+ Sigma: 37 to 1 for 5 epochs, then 10 to 1 for 50 epochs.
+
+Model 12: 
+ Learning rate: 0.1 to 0 for 5 epochs, then 0.01 to 0 for 50 epochs.
+ Sigma: 20 to 1 for 5 epochs, then 3 to 1 for 50 epochs.
+
+Model 13: 
+ Learning rate: 0.5 to 0 for 3 epochs, then 0.05 to 0 for 30 epochs.
+ Sigma: 37 to 1 for 3 epochs, then 3 to 1 for 30 epochs.
+
+Model 14: 
+ Learning rate: 0.5 to 0 for 3 epochs, then 0.05 to 0 for 30 epochs.
+ Sigma: 37 to 1 for 3 epochs, then 10 to 1 for 30 epochs.
+
+Model 15: 
+ Learning rate: 0.5 to 0 for 3 epochs, then 0.05 to 0 for 30 epochs.
+ Sigma: 20 to 1 for 3 epochs, then 3 to 1 for 30 epochs.
+
+Model 16: 
+ Learning rate: 0.1 to 0 for 3 epochs, then 0.01 to 0 for 30 epochs.
+ Sigma: 37 to 1 for 3 epochs, then 3 to 1 for 30 epochs.
+
+Model 17: 
+ Learning rate: 0.1 to 0 for 3 epochs, then 0.01 to 0 for 30 epochs.
+ Sigma: 37 to 1 for 3 epochs, then 10 to 1 for 30 epochs.
+
+Model 18: 
+ Learning rate: 0.1 to 0 for 3 epochs, then 0.01 to 0 for 30 epochs.
+ Sigma: 20 to 1 for 3 epochs, then 3 to 1 for 30 epochs.
+

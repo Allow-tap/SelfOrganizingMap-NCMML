@@ -2,6 +2,7 @@ import ast
 import multiprocessing
 import pickle
 
+from imblearn.under_sampling import RandomUnderSampler
 import matplotlib.pyplot as plt
 from minisom import MiniSom
 import numpy as np
@@ -13,32 +14,31 @@ from sklearn.metrics import (calinski_harabasz_score, davies_bouldin_score,
 from sklearn.model_selection import ParameterGrid
 
 # Adjust these parameters
-som_neurons = (44, 44)
-epochs = 100
-learning_rates = [0.001, 0.01, 0.1]
-sigmas = [1.5, 2, 2.5, 3, 3.5]
+som_neurons = (38, 38)
+
+learning_rates = [[[0.5, 0], [0.05, 0]],
+                  [[0.1, 0], [0.01, 0]]]
+sigmas = [[[37, 1], [3, 1]],
+          [[37, 1], [10, 1]],
+          [[20, 1], [3, 1]]]
+epochs = [[10, 40],
+          [5, 50],
+          [3, 30]]
 
 # Set this manually if you don't want to use all CPUs
 # max_n_cpus = 4  # like this
 max_n_cpus = multiprocessing.cpu_count()
 
-genres = ["rock",
-          "classical",
-          "latin",
-          "pop",
-          "jazz",
-          "soul",
-          "classic bollywood",
-          "rap",
-          "fold",
-          "funk",
-          "opera"]
+genres = ["rock", "classical", "latin", "pop", "jazz", "soul",
+          "classic bollywood", "rap", "folk", "funk", "opera"]
 features = ['acousticness', 'instrumentalness', 'loudness', 'energy',
-            'danceability', 'valence']
+            'danceability', 'valence', 'explicit']
 cluster_method = AgglomerativeClustering(n_clusters=len(genres))
 # cluster_method = MiniBatchKMeans(n_clusters=len(genres))
 
+
 # Leave the rest
+cluster_method_name = type(cluster_method).__name__
 print('Reading data...')
 tracks = pd.read_csv('data/tracks_with_genres.csv')
 tracks['genres'] = tracks['genres'].apply(ast.literal_eval)
@@ -46,8 +46,11 @@ tracks = tracks.explode('genres')
 tracks.rename(columns={'genres': 'genre'}, inplace=True)
 tracks_subset = tracks[tracks['genre'].isin(genres)]
 
+rus = RandomUnderSampler(random_state=1)
+X, y = rus.fit_resample(tracks_subset, tracks_subset['genre'])
+
 print('Transforming data...')
-tracks_values = tracks_subset[features].values
+tracks_values = X[features].values
 tracks_values = (tracks_values - tracks_values.mean(axis=0))\
                 / tracks_values.std(axis=0)
 
@@ -55,29 +58,68 @@ rng = np.random.default_rng()
 rng.shuffle(tracks_values, axis=0)
 
 parameter_combinations = list(ParameterGrid({
-    'learning_rate': learning_rates,
-    'sigma': sigmas}))
+    'learning_rates': learning_rates,
+    'sigmas': sigmas,
+    'epochs': epochs
+}))
 
 for i, x in enumerate(parameter_combinations):
     parameter_combinations[i]['index'] = i+1
 
+with open(f'output/{cluster_method_name}_models.txt', 'w') as models_list_file:
+    for params in parameter_combinations:
+        lr_params = params['learning_rates']
+        sigma_params = params['sigmas']
+        epochs_params = params['epochs']
+        index = params['index']
+
+        write_string = f'Model {index}: \n' \
+                       f' Learning rate: {lr_params[0][0]} to ' \
+                       f'{lr_params[0][1]} for {epochs_params[0]} epochs, ' \
+                       f'then {lr_params[1][0]} to {lr_params[1][1]} for ' \
+                       f'{epochs_params[1]} epochs.\n' \
+                       f' Sigma: {sigma_params[0][0]} to ' \
+                       f'{sigma_params[0][1]} for {epochs_params[0]} ' \
+                       f'epochs, then {sigma_params[1][0]} to ' \
+                       f'{sigma_params[1][1]} for {epochs_params[1]} epochs.' \
+                       f'\n\n'
+
+        models_list_file.write(write_string)
+
+
+def no_decay(param, t, max_iter):
+    return param
+
 
 def evaluate_model(params):
-    learning_rate, sigma = params['learning_rate'], params['sigma']
+    learning_rate_params = params['learning_rates']
+    sigma_params = params['sigmas']
+    epochs_params = params['epochs']
     index = params['index']
+    n_epochs = sum(epochs_params)
 
-    print(f'Running model {index} with learning rate={learning_rate} and '
-          f'sigma={sigma}')
+    learning_rate = np.concatenate(
+        [np.linspace(*lr, epochs+1)[:-1] for lr, epochs
+         in zip(learning_rate_params, epochs_params)])
+    sigma = np.concatenate(
+        [np.linspace(*sig, epochs+1)[:-1] for sig, epochs
+         in zip(sigma_params, epochs_params)])
+
+    print(f'Running model {index}')
     som = MiniSom(som_neurons[0], som_neurons[1], len(features),
-                  sigma=sigma, learning_rate=learning_rate)
+                  decay_function=no_decay)
+    som.pca_weights_init(tracks_values)  # For faster convergence?
 
     silhouette_scores = []
     davies_bouldin_scores = []
     calinski_harabasz_scores = []
 
-    for epoch in range(epochs):
-        print(f'Model {index} running epoch {epoch+1}/{epochs}')
-        som.train(tracks_values, tracks_values.shape[0], verbose=False)
+    for epoch in range(n_epochs):
+        print(f'Model {index} running epoch {epoch+1}/{n_epochs}')
+        som._sigma = sigma[epoch]
+        som._learning_rate = learning_rate[epoch]
+        som.train(tracks_values, tracks_values.shape[0], verbose=False,
+                  random_order=True)
 
         som_weights = som.get_weights()
         som_weights_flat = som_weights.reshape(som_neurons[0] * som_neurons[1],
@@ -105,28 +147,36 @@ def evaluate_model(params):
         ax2.plot(x_range, calinski_harabasz_scores, color='r',
                  linestyle=':', label='Calinski-Harabasz')
         ax2.tick_params(axis='y', labelcolor='r')
-        ax2.set_ylim(0, 1000)
+        #ax2.set_ylim(0, 1000)
         ax1.legend()
         ax2.legend()
         fig.tight_layout()
 
-        cluster_method_name = type(cluster_method).__name__
-
-        plt.savefig(f'figures/{cluster_method_name}_training_'
-                    f'lr_{learning_rate}_sigma_{sigma}.png')
+        plt.savefig(f'output/figures/{cluster_method_name}_'
+                    f'model_{index}_training.png')
         plt.close()
 
-        with open(f'models/{cluster_method_name}_training_'
-                  f'lr_{learning_rate}_sigma_{sigma}.p', 'wb') as model_file:
+        with open(f'models/{cluster_method_name}_model_{index}.p',
+                  'wb') as model_file:
             pickle.dump(som, model_file)
 
         print(f'Model {index} done with epoch {epoch+1}.')
 
-    print(f'Model {index} with learning rate={learning_rate} and '
-          f'sigma={sigma} finished.')
+    print(
+        f'Model {index} finished.')
+    return davies_bouldin_scores[-1]
 
 
-print('Training models...')
+print(f'Training {len(parameter_combinations)} models...')
 pool = multiprocessing.Pool(min(multiprocessing.cpu_count(),
                                 len(parameter_combinations)))
-pool.map(evaluate_model, parameter_combinations)
+davies_bouldin_scores = pool.map(evaluate_model, parameter_combinations)
+pool.close()
+pool.join()
+
+n_top_models = 5
+
+print(f'\nTop {n_top_models} models:')
+for index in np.argsort(davies_bouldin_scores)[:n_top_models]:
+    print(f'Model {index}, '
+          f'with a DB score = {davies_bouldin_scores[index]}')
