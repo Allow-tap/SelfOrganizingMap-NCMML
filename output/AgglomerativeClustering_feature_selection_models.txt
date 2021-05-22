@@ -1,0 +1,360 @@
+Model 1: 
+ Features: acousticness, instrumentalness
+
+Model 2: 
+ Features: acousticness, loudness
+
+Model 3: 
+ Features: acousticness, energy
+
+Model 4: 
+ Features: acousticness, danceability
+
+Model 5: 
+ Features: acousticness, valence
+
+Model 6: 
+ Features: acousticness, explicit
+
+Model 7: 
+ Features: instrumentalness, loudness
+
+Model 8: 
+ Features: instrumentalness, energy
+
+Model 9: 
+ Features: instrumentalness, danceability
+
+Model 10: 
+ Features: instrumentalness, valence
+
+Model 11: 
+ Features: instrumentalness, explicit
+
+Model 12: 
+ Features: loudness, energy
+
+Model 13: 
+ Features: loudness, danceability
+
+Model 14: 
+ Features: loudness, valence
+
+Model 15: 
+ Features: loudness, explicit
+
+Model 16: 
+ Features: energy, danceability
+
+Model 17: 
+ Features: energy, valence
+
+Model 18: 
+ Features: energy, explicit
+
+Model 19: 
+ Features: danceability, valence
+
+Model 20: 
+ Features: danceability, explicit
+
+Model 21: 
+ Features: valence, explicit
+
+Model 22: 
+ Features: acousticness, instrumentalness, loudness
+
+Model 23: 
+ Features: acousticness, instrumentalness, energy
+
+Model 24: 
+ Features: acousticness, instrumentalness, danceability
+
+Model 25: 
+ Features: acousticness, instrumentalness, valence
+
+Model 26: 
+ Features: acousticness, instrumentalness, explicit
+
+Model 27: 
+ Features: acousticness, loudness, energy
+
+Model 28: 
+ Features: acousticness, loudness, danceability
+
+Model 29: 
+ Features: acousticness, loudness, valence
+
+Model 30: 
+ Features: acousticness, loudness, explicit
+
+Model 31: 
+ Features: acousticness, energy, danceability
+
+Model 32: 
+ Features: acousticness, energy, valence
+
+Model 33: 
+ Features: acousticness, energy, explicit
+
+Model 34: 
+ Features: acousticness, danceability, valence
+
+Model 35: 
+ Features: acousticness, danceability, explicit
+
+Model 36: 
+ Features: acousticness, valence, explicit
+
+Model 37: 
+ Features: instrumentalness, loudness, energy
+
+Model 38: 
+ Features: instrumentalness, loudness, danceability
+
+Model 39: 
+ Features: instrumentalness, loudness, valence
+
+Model 40: 
+ Features: instrumentalness, loudness, explicit
+
+Model 41: 
+ Features: instrumentalness, energy, danceability
+
+Model 42: 
+ Features: instrumentalness, energy, valence
+
+Model 43: 
+ Features: instrumentalness, energy, explicit
+
+Model 44: 
+ Features: instrumentalness, danceability, valence
+
+Model 45: 
+ Features: instrumentalness, danceability, explicit
+
+Model 46: 
+ Features: instrumentalness, valence, explicit
+
+Model 47: 
+ Features: loudness, energy, danceability
+
+Model 48: 
+ Features: loudness, energy, valence
+
+Model 49: 
+ Features: loudness, energy, explicit
+
+Model 50: 
+ Features: loudness, danceability, valence
+
+Model 51: 
+ Features: loudness, danceability, explicit
+
+Model 52: 
+ Features: loudness, valence, explicit
+
+Model 53: 
+ Features: energy, danceability, valence
+
+Model 54: 
+ Features: energy, danceability, explicit
+
+Model 55: 
+ Features: energy, valence, explicit
+
+Model 56: 
+ Features: danceability, valence, explicit
+
+Model 57: 
+ Features: acousticness, instrumentalness, loudness, energy
+
+Model 58: 
+ Features: acousticness, instrumentalness, loudness, danceability
+
+Model 59: 
+ Features: acousticness, instrumentalness, loudness, valence
+
+Model 60: 
+ Features: acousticness, instrumentalness, loudness, explicit
+
+Model 61: 
+ Features: acousticness, instrumentalness, energy, danceability
+
+Model 62: 
+ Features: acousticness, instrumentalness, energy, valence
+
+Model 63: 
+ Features: acousticness, instrumentalness, energy, explicit
+
+Model 64: 
+ Features: acousticness, instrumentalness, danceability, valence
+
+Model 65: 
+ Features: acousticness, instrumentalness, danceability, explicit
+
+Model 66: 
+ Features: acousticness, instrumentalness, valence, explicit
+
+Model 67: 
+ Features: acousticness, loudness, energy, danceability
+
+Model 68: 
+ Features: acousticness, loudness, energy, valence
+
+Model 69: 
+ Features: acousticness, loudness, energy, explicit
+
+Model 70: 
+ Features: acousticness, loudness, danceability, valence
+
+Model 71: 
+ Features: acousticness, loudness, danceability, explicit
+
+Model 72: 
+ Features: acousticness, loudness, valence, explicit
+
+Model 73: 
+ Features: acousticness, energy, danceability, valence
+
+Model 74: 
+ Features: acousticness, energy, danceability, explicit
+
+Model 75: 
+ Features: acousticness, energy, valence, explicit
+
+Model 76: 
+ Features: acousticness, danceability, valence, explicit
+
+Model 77: 
+ Features: instrumentalness, loudness, energy, danceability
+
+Model 78: 
+ Features: instrumentalness, loudness, energy, valence
+
+Model 79: 
+ Features: instrumentalness, loudness, energy, explicit
+
+Model 80: 
+ Features: instrumentalness, loudness, danceability, valence
+
+Model 81: 
+ Features: instrumentalness, loudness, danceability, explicit
+
+Model 82: 
+ Features: instrumentalness, loudness, valence, explicit
+
+Model 83: 
+ Features: instrumentalness, energy, danceability, valence
+
+Model 84: 
+ Features: instrumentalness, energy, danceability, explicit
+
+Model 85: 
+ Features: instrumentalness, energy, valence, explicit
+
+Model 86: 
+ Features: instrumentalness, danceability, valence, explicit
+
+Model 87: 
+ Features: loudness, energy, danceability, valence
+
+Model 88: 
+ Features: loudness, energy, danceability, explicit
+
+Model 89: 
+ Features: loudness, energy, valence, explicit
+
+Model 90: 
+ Features: loudness, danceability, valence, explicit
+
+Model 91: 
+ Features: energy, danceability, valence, explicit
+
+Model 92: 
+ Features: acousticness, instrumentalness, loudness, energy, danceability
+
+Model 93: 
+ Features: acousticness, instrumentalness, loudness, energy, valence
+
+Model 94: 
+ Features: acousticness, instrumentalness, loudness, energy, explicit
+
+Model 95: 
+ Features: acousticness, instrumentalness, loudness, danceability, valence
+
+Model 96: 
+ Features: acousticness, instrumentalness, loudness, danceability, explicit
+
+Model 97: 
+ Features: acousticness, instrumentalness, loudness, valence, explicit
+
+Model 98: 
+ Features: acousticness, instrumentalness, energy, danceability, valence
+
+Model 99: 
+ Features: acousticness, instrumentalness, energy, danceability, explicit
+
+Model 100: 
+ Features: acousticness, instrumentalness, energy, valence, explicit
+
+Model 101: 
+ Features: acousticness, instrumentalness, danceability, valence, explicit
+
+Model 102: 
+ Features: acousticness, loudness, energy, danceability, valence
+
+Model 103: 
+ Features: acousticness, loudness, energy, danceability, explicit
+
+Model 104: 
+ Features: acousticness, loudness, energy, valence, explicit
+
+Model 105: 
+ Features: acousticness, loudness, danceability, valence, explicit
+
+Model 106: 
+ Features: acousticness, energy, danceability, valence, explicit
+
+Model 107: 
+ Features: instrumentalness, loudness, energy, danceability, valence
+
+Model 108: 
+ Features: instrumentalness, loudness, energy, danceability, explicit
+
+Model 109: 
+ Features: instrumentalness, loudness, energy, valence, explicit
+
+Model 110: 
+ Features: instrumentalness, loudness, danceability, valence, explicit
+
+Model 111: 
+ Features: instrumentalness, energy, danceability, valence, explicit
+
+Model 112: 
+ Features: loudness, energy, danceability, valence, explicit
+
+Model 113: 
+ Features: acousticness, instrumentalness, loudness, energy, danceability, valence
+
+Model 114: 
+ Features: acousticness, instrumentalness, loudness, energy, danceability, explicit
+
+Model 115: 
+ Features: acousticness, instrumentalness, loudness, energy, valence, explicit
+
+Model 116: 
+ Features: acousticness, instrumentalness, loudness, danceability, valence, explicit
+
+Model 117: 
+ Features: acousticness, instrumentalness, energy, danceability, valence, explicit
+
+Model 118: 
+ Features: acousticness, loudness, energy, danceability, valence, explicit
+
+Model 119: 
+ Features: instrumentalness, loudness, energy, danceability, valence, explicit
+
+Model 120: 
+ Features: acousticness, instrumentalness, loudness, energy, danceability, valence, explicit
+

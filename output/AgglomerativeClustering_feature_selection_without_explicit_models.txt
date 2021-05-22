@@ -1,0 +1,171 @@
+Model 1: 
+ Features: acousticness, instrumentalness
+
+Model 2: 
+ Features: acousticness, loudness
+
+Model 3: 
+ Features: acousticness, energy
+
+Model 4: 
+ Features: acousticness, danceability
+
+Model 5: 
+ Features: acousticness, valence
+
+Model 6: 
+ Features: instrumentalness, loudness
+
+Model 7: 
+ Features: instrumentalness, energy
+
+Model 8: 
+ Features: instrumentalness, danceability
+
+Model 9: 
+ Features: instrumentalness, valence
+
+Model 10: 
+ Features: loudness, energy
+
+Model 11: 
+ Features: loudness, danceability
+
+Model 12: 
+ Features: loudness, valence
+
+Model 13: 
+ Features: energy, danceability
+
+Model 14: 
+ Features: energy, valence
+
+Model 15: 
+ Features: danceability, valence
+
+Model 16: 
+ Features: acousticness, instrumentalness, loudness
+
+Model 17: 
+ Features: acousticness, instrumentalness, energy
+
+Model 18: 
+ Features: acousticness, instrumentalness, danceability
+
+Model 19: 
+ Features: acousticness, instrumentalness, valence
+
+Model 20: 
+ Features: acousticness, loudness, energy
+
+Model 21: 
+ Features: acousticness, loudness, danceability
+
+Model 22: 
+ Features: acousticness, loudness, valence
+
+Model 23: 
+ Features: acousticness, energy, danceability
+
+Model 24: 
+ Features: acousticness, energy, valence
+
+Model 25: 
+ Features: acousticness, danceability, valence
+
+Model 26: 
+ Features: instrumentalness, loudness, energy
+
+Model 27: 
+ Features: instrumentalness, loudness, danceability
+
+Model 28: 
+ Features: instrumentalness, loudness, valence
+
+Model 29: 
+ Features: instrumentalness, energy, danceability
+
+Model 30: 
+ Features: instrumentalness, energy, valence
+
+Model 31: 
+ Features: instrumentalness, danceability, valence
+
+Model 32: 
+ Features: loudness, energy, danceability
+
+Model 33: 
+ Features: loudness, energy, valence
+
+Model 34: 
+ Features: loudness, danceability, valence
+
+Model 35: 
+ Features: energy, danceability, valence
+
+Model 36: 
+ Features: acousticness, instrumentalness, loudness, energy
+
+Model 37: 
+ Features: acousticness, instrumentalness, loudness, danceability
+
+Model 38: 
+ Features: acousticness, instrumentalness, loudness, valence
+
+Model 39: 
+ Features: acousticness, instrumentalness, energy, danceability
+
+Model 40: 
+ Features: acousticness, instrumentalness, energy, valence
+
+Model 41: 
+ Features: acousticness, instrumentalness, danceability, valence
+
+Model 42: 
+ Features: acousticness, loudness, energy, danceability
+
+Model 43: 
+ Features: acousticness, loudness, energy, valence
+
+Model 44: 
+ Features: acousticness, loudness, danceability, valence
+
+Model 45: 
+ Features: acousticness, energy, danceability, valence
+
+Model 46: 
+ Features: instrumentalness, loudness, energy, danceability
+
+Model 47: 
+ Features: instrumentalness, loudness, energy, valence
+
+Model 48: 
+ Features: instrumentalness, loudness, danceability, valence
+
+Model 49: 
+ Features: instrumentalness, energy, danceability, valence
+
+Model 50: 
+ Features: loudness, energy, danceability, valence
+
+Model 51: 
+ Features: acousticness, instrumentalness, loudness, energy, danceability
+
+Model 52: 
+ Features: acousticness, instrumentalness, loudness, energy, valence
+
+Model 53: 
+ Features: acousticness, instrumentalness, loudness, danceability, valence
+
+Model 54: 
+ Features: acousticness, instrumentalness, energy, danceability, valence
+
+Model 55: 
+ Features: acousticness, loudness, energy, danceability, valence
+
+Model 56: 
+ Features: instrumentalness, loudness, energy, danceability, valence
+
+Model 57: 
+ Features: acousticness, instrumentalness, loudness, energy, danceability, valence
+

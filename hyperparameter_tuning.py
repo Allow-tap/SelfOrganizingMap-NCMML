@@ -32,9 +32,10 @@ max_n_cpus = multiprocessing.cpu_count()
 genres = ["rock", "classical", "latin", "pop", "jazz", "soul",
           "classic bollywood", "rap", "folk", "funk", "opera"]
 features = ['acousticness', 'instrumentalness', 'loudness', 'energy',
-            'danceability', 'valence', 'explicit']
+            'danceability', 'valence']
 cluster_method = AgglomerativeClustering(n_clusters=len(genres))
 # cluster_method = MiniBatchKMeans(n_clusters=len(genres))
+model_prefix = '_without_explicit'
 
 
 # Leave the rest
@@ -66,7 +67,7 @@ parameter_combinations = list(ParameterGrid({
 for i, x in enumerate(parameter_combinations):
     parameter_combinations[i]['index'] = i+1
 
-with open(f'output/{cluster_method_name}_models.txt', 'w') as models_list_file:
+with open(f'output/{cluster_method_name}{model_prefix}_models.txt', 'w') as models_list_file:
     for params in parameter_combinations:
         lr_params = params['learning_rates']
         sigma_params = params['sigmas']
@@ -133,31 +134,35 @@ def evaluate_model(params):
         davies_bouldin_scores.append(davies_bouldin)
         calinski_harabasz_scores.append(calinski_harabasz)
 
+        lines = []
+
         fig, ax1 = plt.subplots()
         x_range = range(1, len(silhouette_scores)+1)
-        ax1.plot(x_range, silhouette_scores, color='b',
+        lines += ax1.plot(x_range, silhouette_scores, color='b',
                  linestyle='-', label='Silhouette')
-        ax1.plot(x_range, davies_bouldin_scores, color='b',
+        lines += ax1.plot(x_range, davies_bouldin_scores, color='b',
                  linestyle='-.', label='Davies-Bouldin')
         ax1.tick_params(axis='y', labelcolor='b')
         ax1.set_ylim(0, 2)
         ax1.set_xlabel('Epochs')
 
         ax2 = plt.twinx()
-        ax2.plot(x_range, calinski_harabasz_scores, color='r',
+        lines += ax2.plot(x_range, calinski_harabasz_scores, color='r',
                  linestyle=':', label='Calinski-Harabasz')
         ax2.tick_params(axis='y', labelcolor='r')
         #ax2.set_ylim(0, 1000)
-        ax1.legend()
-        ax2.legend()
+
+        labels = [line.get_label() for line in lines]
+
+        ax1.legend(lines, labels)
         fig.tight_layout()
 
-        plt.savefig(f'output/figures/{cluster_method_name}_'
+        plt.savefig(f'output/figures/{cluster_method_name}{model_prefix}_'
                     f'model_{index}_training.png')
         plt.close()
 
-        with open(f'models/{cluster_method_name}_model_{index}.p',
-                  'wb') as model_file:
+        with open(f'models/{cluster_method_name}{model_prefix}_model_'
+                  f'{index}.p', 'wb') as model_file:
             pickle.dump(som, model_file)
 
         print(f'Model {index} done with epoch {epoch+1}.')
@@ -177,6 +182,12 @@ pool.join()
 n_top_models = 5
 
 print(f'\nTop {n_top_models} models:')
-for index in np.argsort(davies_bouldin_scores)[:n_top_models]:
-    print(f'Model {index}, '
-          f'with a DB score = {davies_bouldin_scores[index]}')
+with open(f'output/{cluster_method_name}{model_prefix}_models_'
+          f'scores.txt', 'w') as best_models_file:
+    for count, index in enumerate(np.argsort(davies_bouldin_scores)):
+        output = f'Model {index+1}, with a DB score = ' \
+                 f'{davies_bouldin_scores[index]}'
+        best_models_file.write(output + '\n')
+
+        if count < n_top_models:
+            print(output)
